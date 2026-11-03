@@ -1,0 +1,1522 @@
+{
+ "archive": "Copy of AG-AgTech Leads 103,322.zip",
+ "drive_id": "1qy4AaGw6ELqgN5D73q16S0uMQnkC7ziO",
+ "size": 85161594,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Leads - CropReach AG-AgTech/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (10).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 340,
+   "uncompressed": 730,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (11).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 483,
+   "uncompressed": 1227,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (12).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1436,
+   "uncompressed": 4316,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (13).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 819,
+   "uncompressed": 2331,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (14).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 752,
+   "uncompressed": 2219,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (15).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1281,
+   "uncompressed": 4103,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (16).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 673,
+   "uncompressed": 1768,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (17).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1385,
+   "uncompressed": 4423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (18).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1376,
+   "uncompressed": 4350,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (19).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 568,
+   "uncompressed": 1602,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (2).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 876,
+   "uncompressed": 2420,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (20).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 697,
+   "uncompressed": 1792,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (3).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1088,
+   "uncompressed": 3523,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (4).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 789,
+   "uncompressed": 2288,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (5).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1135,
+   "uncompressed": 3436,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (6).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1451,
+   "uncompressed": 4832,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (7).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 802,
+   "uncompressed": 2333,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (8).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 777,
+   "uncompressed": 2246,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31 (9).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1408,
+   "uncompressed": 4330,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/a-z/agtechfinder-2024-08-31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2682,
+   "uncompressed": 9437,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/Final_Combined_DataFrame.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15103,
+   "uncompressed": 61739,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtech Finder scrape/Scrape-details-from-agtechfinder.com--1--2024-09-05 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5007,
+   "uncompressed": 33870,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtechcompanies scrape/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtechcompanies scrape/agtechcompanies-2024-08-31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29826,
+   "uncompressed": 513139,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Agtechcompanies scrape/Scrape-details-from-agtechcompanies.com-2024-09-01.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23487,
+   "uncompressed": 203136,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/CBINsight Scrape/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/CBINsight Scrape/cbinsights-2024-08-31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3722,
+   "uncompressed": 13612,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/CBINsight Scrape/Scrape-details-from-cbinsights.com-2024-08-31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2252,
+   "uncompressed": 10326,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/Combined_Crunchbase_Data.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 717807,
+   "uncompressed": 6222261,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/1-10/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/1-10/crunchbase-2024-08-31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 157348,
+   "uncompressed": 1387716,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/101-10001/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/101-10001/crunchbase-2024-08-31 (2).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 58170,
+   "uncompressed": 515235,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/11-100/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/North America + Asia/11-100/crunchbase-2024-08-31 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 169272,
+   "uncompressed": 1479271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/South America + New Zealand + Africa + Europe + Asutralia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/South America + New Zealand + Africa + Europe + Asutralia/1-10/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/South America + New Zealand + Africa + Europe + Asutralia/1-10/crunchbase-2024-08-31 (3).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 155828,
+   "uncompressed": 1331590,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/South America + New Zealand + Africa + Europe + Asutralia/11-10001/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Crunchbase scrape/South America + New Zealand + Africa + Europe + Asutralia/11-10001/crunchbase-2024-08-31 (4).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 177087,
+   "uncompressed": 1501488,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/agtech.txt",
+   "is_dir": false,
+   "ext": "txt",
+   "compressed": 38221,
+   "uncompressed": 118879,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7281851,
+   "uncompressed": 44474836,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7221835,
+   "uncompressed": 44503473,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7518899,
+   "uncompressed": 42049653,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7270961,
+   "uncompressed": 42197002,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7255192,
+   "uncompressed": 48207427,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3161185,
+   "uncompressed": 18934248,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/americas_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 592948,
+   "uncompressed": 3512576,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/americas_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 626652,
+   "uncompressed": 4326637,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/used/1-americas_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1068202,
+   "uncompressed": 7817803,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/used/americas_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1125414,
+   "uncompressed": 8261510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/used/americas_region_v3_part1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 601116,
+   "uncompressed": 3488010,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/used/americas_region_v3_part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 185391,
+   "uncompressed": 971322,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Americas/used/americas_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 225020,
+   "uncompressed": 1099341,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/1-asia_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 517135,
+   "uncompressed": 4314580,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/asia_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 467594,
+   "uncompressed": 4124413,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/asia_region_v3_part1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 233145,
+   "uncompressed": 1560302,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/asia_region_v3_part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37053,
+   "uncompressed": 183288,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/asia_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36821,
+   "uncompressed": 177742,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/asia_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 175920,
+   "uncompressed": 1188528,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Asia/used/asia_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 200942,
+   "uncompressed": 1709899,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/cleaned-1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2939131,
+   "uncompressed": 19702834,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/cleaned-2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2807687,
+   "uncompressed": 19247748,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/cleaned-3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2499190,
+   "uncompressed": 14005982,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/cleaned-4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1779495,
+   "uncompressed": 9671438,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/cleaned-5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1343562,
+   "uncompressed": 7333953,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/cleaned-6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1357164,
+   "uncompressed": 8902272,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/europe_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 497365,
+   "uncompressed": 4654743,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/europe_region_v3_part1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 204519,
+   "uncompressed": 1416379,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/europe_region_v3_part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 80448,
+   "uncompressed": 396951,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/europe_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 97533,
+   "uncompressed": 462371,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/europe_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 335765,
+   "uncompressed": 2126393,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/europe_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 289122,
+   "uncompressed": 2052369,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Europe/used/1- europe_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 448691,
+   "uncompressed": 4176304,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/1-other_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 229051,
+   "uncompressed": 2129788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/other_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 240381,
+   "uncompressed": 2329183,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/other_region_v3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 174604,
+   "uncompressed": 1323404,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/other_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 91470,
+   "uncompressed": 675584,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/other_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 78738,
+   "uncompressed": 560342,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/Cleaned/Other/used/other_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 115482,
+   "uncompressed": 912519,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/cleaned_leads_chunk_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6091,
+   "uncompressed": 28582,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/cleaned_leads_chunk_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6959,
+   "uncompressed": 21702,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/cleaned_leads_chunk_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7473,
+   "uncompressed": 17802,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/cleaned_leads_chunk_4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7758,
+   "uncompressed": 17991,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/cleaned_leads_chunk_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7461,
+   "uncompressed": 17701,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Leads/cleaned_leads_chunk_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3903,
+   "uncompressed": 8866,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Scrape-details-from-crunchbase.com--1--2024-11-21 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 530368,
+   "uncompressed": 2001380,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/used/domain_list_part_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 65241,
+   "uncompressed": 250692,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 64565,
+   "uncompressed": 243402,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 68381,
+   "uncompressed": 252903,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 69197,
+   "uncompressed": 253798,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 64880,
+   "uncompressed": 243675,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 70076,
+   "uncompressed": 256305,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 68543,
+   "uncompressed": 252732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/New Leads/Split up/using/domain_list_part_8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 66462,
+   "uncompressed": 240670,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/cleaned/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/cleaned/used/Result-1536461-SAFE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1635825,
+   "uncompressed": 6539672,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/cleaned/used/Result-1536462-SAFE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 671009,
+   "uncompressed": 2652425,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/leads (1) (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3551504,
+   "uncompressed": 11684691,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Our Apollo Scraper/leads (2) (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1330268,
+   "uncompressed": 4287219,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 144839,
+   "uncompressed": 584684,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 330846,
+   "uncompressed": 1048385,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 306379,
+   "uncompressed": 974403,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 338462,
+   "uncompressed": 1056654,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 325991,
+   "uncompressed": 1121124,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_14.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 319524,
+   "uncompressed": 1058342,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_15.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 314282,
+   "uncompressed": 1036143,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 292295,
+   "uncompressed": 974999,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 281047,
+   "uncompressed": 933075,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_18.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 298282,
+   "uncompressed": 974870,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_19.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 312854,
+   "uncompressed": 1013384,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 149978,
+   "uncompressed": 603316,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 316511,
+   "uncompressed": 1019396,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_21.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 343597,
+   "uncompressed": 1101280,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_22.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 159292,
+   "uncompressed": 506448,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 296457,
+   "uncompressed": 998826,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 312485,
+   "uncompressed": 1012444,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 254580,
+   "uncompressed": 829789,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 272946,
+   "uncompressed": 887446,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 303347,
+   "uncompressed": 976362,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 291930,
+   "uncompressed": 959059,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1k chunks/CropReach_Chunk_9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 310207,
+   "uncompressed": 983483,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/1K domains - CropReach-22K leads.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6460228,
+   "uncompressed": 22818273,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/cleaned/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/cleaned/used/cleaned-1K domains - CropReach-22K leads.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1098513,
+   "uncompressed": 4119153,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Leads - CropReach AG-AgTech/Seamless.ai/cleaned/using/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

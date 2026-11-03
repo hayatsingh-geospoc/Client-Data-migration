@@ -1,0 +1,162 @@
+{
+ "archive": "Copy of Apollo Software Development Leads 111,582.zip",
+ "drive_id": "1iBoPohw7MimqV91xP-upvPnOTA0FxDbT",
+ "size": 64506776,
+ "modtime": "2026-06-13T15:04:13.499Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Softwaredevelopment Apollo 111,582/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/chunk_1--USED.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3080576,
+   "uncompressed": 12620738,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/chunk_2-USED.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3034315,
+   "uncompressed": 12394918,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/chunk_3-USED.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2999037,
+   "uncompressed": 12219429,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/chunk_4-USED.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2987864,
+   "uncompressed": 11888901,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/chunk_5-USED.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3020319,
+   "uncompressed": 11980891,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/chunk_6-USED.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1944561,
+   "uncompressed": 7588956,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/New 10k chunks/fast-test.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1720,
+   "uncompressed": 3804,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/part 1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6171877,
+   "uncompressed": 25235827,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5792172,
+   "uncompressed": 23301306,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads Cleaned/part3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4991456,
+   "uncompressed": 19686135,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/100k leads.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27064290,
+   "uncompressed": 98812217,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Softwaredevelopment Apollo 111,582/CLEANED US 51-100 - CLEANED US 51-100.csv.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3414255,
+   "uncompressed": 12815023,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

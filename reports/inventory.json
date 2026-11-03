@@ -1,0 +1,364 @@
+[
+ {
+  "archive": "Copy of Chrunchbase Database 24,060.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 1977040,
+  "uncompressed_bytes": 14438941,
+  "file_count": 7,
+  "ext_counts": {
+   "csv": 7
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Chrunchbase Database 24,060/agtech/Combined_Crunchbase_Data.csv",
+  "largest_file_bytes": 6222261
+ },
+ {
+  "archive": "Copy of Phone Leads 321,562.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 5896584,
+  "uncompressed_bytes": 18335386,
+  "file_count": 6,
+  "ext_counts": {
+   "csv": 6
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "3. Phone/Restaurants/D7_Bulk_CSV_Restaurants_Local_Business - D7_Bulk_CSV_Restaurants_Local_Business (2).csv",
+  "largest_file_bytes": 4926240
+ },
+ {
+  "archive": "Copy of Getlanka Database 24,404.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 26537989,
+  "uncompressed_bytes": 116212989,
+  "file_count": 71,
+  "ext_counts": {
+   "csv": 71
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Getlanka Software Company Database 24,404/SAAS Companieos.csv",
+  "largest_file_bytes": 17384440
+ },
+ {
+  "archive": "Copy of Instagram - 843,613.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 38695795,
+  "uncompressed_bytes": 84063291,
+  "file_count": 64,
+  "ext_counts": {
+   "csv": 64
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/1 Keywords Globe -US -3RD.csv",
+  "largest_file_bytes": 5825378
+ },
+ {
+  "archive": "Copy of Clutch.co Database 194,257.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 42557631,
+  "uncompressed_bytes": 246908895,
+  "file_count": 17,
+  "ext_counts": {
+   "csv": 17
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Clutch.co Database 194,257/ppc agencies-400pages.csv",
+  "largest_file_bytes": 28126648
+ },
+ {
+  "archive": "Copy of LeadRocks Database 341,632.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 45313678,
+  "uncompressed_bytes": 123840909,
+  "file_count": 642,
+  "ext_counts": {
+   "csv": 577,
+   "xlsx": 63,
+   "docx": 2
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #2.xlsx",
+  "largest_file_bytes": 3065858
+ },
+ {
+  "archive": "Copy of Apollo Software Development Leads 111,582.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 64506776,
+  "uncompressed_bytes": 248548145,
+  "file_count": 12,
+  "ext_counts": {
+   "csv": 12
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Softwaredevelopment Apollo 111,582/100k leads.csv",
+  "largest_file_bytes": 98812217
+ },
+ {
+  "archive": "Copy of NinjaLeads Database 238,702.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 74492417,
+  "uncompressed_bytes": 136967707,
+  "file_count": 731,
+  "ext_counts": {
+   "csv": 368,
+   "xlsx": 362,
+   "2023": 1
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "NinjaLeads Database 238,702/HVAC/HVAC 1.csv",
+  "largest_file_bytes": 2210054
+ },
+ {
+  "archive": "Copy of AG-AgTech Leads 103,322.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 85161594,
+  "uncompressed_bytes": 475502661,
+  "file_count": 115,
+  "ext_counts": {
+   "csv": 114,
+   "txt": 1
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Leads - CropReach AG-AgTech/Leads/Apollo Leads/5.csv",
+  "largest_file_bytes": 48207427
+ },
+ {
+  "archive": "Copy of Fresh Apollo Leads 1,232,352.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 91645202,
+  "uncompressed_bytes": 417910062,
+  "file_count": 19,
+  "ext_counts": {
+   "csv": 19
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "_formated/Vanda 105k Apollo leads.csv",
+  "largest_file_bytes": 112578207
+ },
+ {
+  "archive": "Copy of Real Estate Agents 830K",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 96420854,
+  "uncompressed_bytes": 116805295,
+  "file_count": 2,
+  "ext_counts": {
+   "csv": 1,
+   "xlsx": 1
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Real Estate Agents-20250920T122255Z-1-001/Real Estate Agents/Copy of Realtors-Email -860.000.xlsx",
+  "largest_file_bytes": 90209111
+ },
+ {
+  "archive": "Copy of Company Using X Technology - 10,135,706.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 211713922,
+  "uncompressed_bytes": 643742980,
+  "file_count": 82,
+  "ext_counts": {
+   "csv": 82
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Company Using X Technology - 10,135,706/Shopify Users Database/Shopify_100%.csv",
+  "largest_file_bytes": 108129788
+ },
+ {
+  "archive": "Copy of Pitchbook 2025-06-21.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 279073764,
+  "uncompressed_bytes": 1023534782,
+  "file_count": 349,
+  "ext_counts": {
+   "csv": 343,
+   "xlsx": 6
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Pitchbook/Verticals/REV 5M_TMT_57593.csv",
+  "largest_file_bytes": 56033296
+ },
+ {
+  "archive": "Copy of LinkedIn - 945,237.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 305125193,
+  "uncompressed_bytes": 961300022,
+  "file_count": 9,
+  "ext_counts": {
+   "csv": 9
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/US 1-100 Marketing 2_5_United States_mass_export.csv",
+  "largest_file_bytes": 191858260
+ },
+ {
+  "archive": "Copy of Almost Full Crunchbase Database 2,807,492.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 442950637,
+  "uncompressed_bytes": 1658369995,
+  "file_count": 29,
+  "ext_counts": {
+   "csv": 29
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "crunchbase_companies/crunchbase_100k-200k.csv",
+  "largest_file_bytes": 60166863
+ },
+ {
+  "archive": "Copy of Pitchbook 2025-09-14.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 454339809,
+  "uncompressed_bytes": 460488692,
+  "file_count": 34,
+  "ext_counts": {
+   "xlsx": 33,
+   "zip": 1
+  },
+  "nested_zips": [
+   "Pitchbook/Pitchbook-20250621T054827Z-1-001.zip"
+  ],
+  "encrypted_files": 0,
+  "largest_file": "Pitchbook/Pitchbook-20250621T054827Z-1-001.zip",
+  "largest_file_bytes": 279073764
+ },
+ {
+  "archive": "Copy of Seamless Database 1,547,199.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 1455526360,
+  "uncompressed_bytes": 3566621232,
+  "file_count": 582,
+  "ext_counts": {
+   "csv": 580,
+   "zip": 2
+  },
+  "nested_zips": [
+   "Seamless Database 1,547,199/coache, consultants, over 80k year.zip",
+   "Seamless Database 1,547,199/Seamless Search-20250129T145500Z-001.zip"
+  ],
+  "encrypted_files": 0,
+  "largest_file": "Seamless Database 1,547,199/Seamless Search-20250129T145500Z-001.zip",
+  "largest_file_bytes": 731705357
+ },
+ {
+  "archive": "Copy of USA Database Business Leads 9,979,021.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 1499034471,
+  "uncompressed_bytes": 1671368074,
+  "file_count": 2195,
+  "ext_counts": {
+   "csv": 1895,
+   "xlsx": 299,
+   "2023": 1
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "USA Database Business Leads 9,979,021/USA Database Business Leads 10,202,282/USA - Public Contacts 9,327,960/82 Million USA - Public Contacts File 13.xlsx",
+  "largest_file_bytes": 167537720
+ },
+ {
+  "archive": "Copy of High Quality B2B Leads 31,457,250.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 2289043098,
+  "uncompressed_bytes": 6863869138,
+  "file_count": 30,
+  "ext_counts": {
+   "csv": 30
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "High Quality B2B Leads 31,457,250/List # 07.csv",
+  "largest_file_bytes": 232965475
+ },
+ {
+  "archive": "Copy of The Ultimate Ecommerce 7,797,171.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 2534530129,
+  "uncompressed_bytes": 10044023741,
+  "file_count": 21,
+  "ext_counts": {
+   "csv": 21
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_1.csv",
+  "largest_file_bytes": 642945510
+ },
+ {
+  "archive": "Copy of Entire Apollo Database 99,311,285.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 19649421207,
+  "uncompressed_bytes": 64647182767,
+  "file_count": 41,
+  "ext_counts": {
+   "csv": 41
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Entire Apollo Database 99,311,285/Apollo_V7_V5_per_all_fields 93,239,628.csv",
+  "largest_file_bytes": 54038527871
+ },
+ {
+  "archive": "Copy of People Datalabs Database 415,821,844.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 31030237047,
+  "uncompressed_bytes": 121246433903,
+  "file_count": 418,
+  "ext_counts": {
+   "json": 1,
+   "csv": 417
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "People Datalabs Database 415,821,844/PeopleDataLabs_416M.json",
+  "largest_file_bytes": 67597862784
+ },
+ {
+  "archive": "Copy of Entire Linkedin Database 434,832,484.zip",
+  "status": "ok",
+  "error": null,
+  "zip_bytes": 58615302402,
+  "uncompressed_bytes": 240879077578,
+  "file_count": 200,
+  "ext_counts": {
+   "csv": 200
+  },
+  "nested_zips": [],
+  "encrypted_files": 0,
+  "largest_file": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of USA/USA.csv",
+  "largest_file_bytes": 69410577203
+ }
+]

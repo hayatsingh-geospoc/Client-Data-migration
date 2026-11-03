@@ -1,0 +1,172 @@
+{
+ "archive": "Copy of Chrunchbase Database 24,060.zip",
+ "drive_id": "1tL754z_LwtSPxjCy2m4qNa_4avc4c9kD",
+ "size": 1977040,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Chrunchbase Database 24,060/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/Combined_Crunchbase_Data.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 721038,
+   "uncompressed": 6222261,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/1-10/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/1-10/crunchbase-2024-08-31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 157920,
+   "uncompressed": 1387716,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/101-10001/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/101-10001/crunchbase-2024-08-31 (2).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 58419,
+   "uncompressed": 515235,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/11-100/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/North America + Asia/11-100/crunchbase-2024-08-31 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 169895,
+   "uncompressed": 1479271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/Scrape-details-from-crunchbase.com--1--2024-11-21 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 530452,
+   "uncompressed": 2001380,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/South America + New Zealand + Africa + Europe + Asutralia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/South America + New Zealand + Africa + Europe + Asutralia/1-10/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/South America + New Zealand + Africa + Europe + Asutralia/1-10/crunchbase-2024-08-31 (3).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 156787,
+   "uncompressed": 1331590,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/South America + New Zealand + Africa + Europe + Asutralia/11-10001/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Chrunchbase Database 24,060/agtech/South America + New Zealand + Africa + Europe + Asutralia/11-10001/crunchbase-2024-08-31 (4).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 177707,
+   "uncompressed": 1501488,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

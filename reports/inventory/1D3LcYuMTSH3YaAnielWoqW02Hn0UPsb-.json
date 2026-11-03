@@ -1,0 +1,922 @@
+{
+ "archive": "Copy of Getlanka Database 24,404.zip",
+ "drive_id": "1D3LcYuMTSH3YaAnielWoqW02Hn0UPsb-",
+ "size": 26537989,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Getlanka Software Company Database 24,404/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Analyitcs software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 222814,
+   "uncompressed": 1071737,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Crm Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 170957,
+   "uncompressed": 841916,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Development Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 127637,
+   "uncompressed": 727984,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Digital Advertisin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 101147,
+   "uncompressed": 648531,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Ecommerce Platform.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 103581,
+   "uncompressed": 556811,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Education platforms.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 52602,
+   "uncompressed": 287156,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/ERP Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 127033,
+   "uncompressed": 672242,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Financial Services Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 276569,
+   "uncompressed": 1302626,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Healthcare software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 154542,
+   "uncompressed": 792976,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/HR Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113850,
+   "uncompressed": 582560,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/IT MAnagement sfotware.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42080,
+   "uncompressed": 251841,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Marketing Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 162154,
+   "uncompressed": 783873,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Other-software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 88266,
+   "uncompressed": 456680,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Catch-All/Security Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 112982,
+   "uncompressed": 686218,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Analytics - used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Analytics - used/Analyitcs software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1003105,
+   "uncompressed": 4279284,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Analytics - used/Analyitcs_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1052909,
+   "uncompressed": 4499114,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/CRM - USED/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/CRM - USED/Crm Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 350892,
+   "uncompressed": 1584812,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/CRM - USED/Crm Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 369310,
+   "uncompressed": 1658384,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Digital Advertising - USED/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Digital Advertising - USED/Digital Advertisin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 255080,
+   "uncompressed": 1250230,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Digital Advertising - USED/Digital Advertisin_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 269576,
+   "uncompressed": 1305138,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Ecommerce - used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Ecommerce - used/Ecommerce Platform.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 291440,
+   "uncompressed": 1284015,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Ecommerce - used/Ecommerce Platform_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 305991,
+   "uncompressed": 1344073,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Education - used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Education - used/Education platforms.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 162780,
+   "uncompressed": 833687,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Education - used/Education platforms_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172203,
+   "uncompressed": 877454,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/ERP - used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/ERP - used/ERP Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 540451,
+   "uncompressed": 2329480,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/ERP - used/ERP Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 566801,
+   "uncompressed": 2439875,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Finance - used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Finance - used/Financial Services Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 736204,
+   "uncompressed": 3098230,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Finance - used/Financial Services Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 768469,
+   "uncompressed": 3253378,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Healthcare-used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Healthcare-used/Healthcare software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 488870,
+   "uncompressed": 2092201,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Healthcare-used/Healthcare software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 511761,
+   "uncompressed": 2196027,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/HR-used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/HR-used/HR Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 394404,
+   "uncompressed": 1758244,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/HR-used/HR Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 412466,
+   "uncompressed": 1843787,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/IT-used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/IT-used/IT MAnagement sfotware.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 201998,
+   "uncompressed": 981725,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/IT-used/IT MAnagement sfotware_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 212841,
+   "uncompressed": 1031701,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Marketing-used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Marketing-used/Marketing Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 473473,
+   "uncompressed": 2147726,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Marketing-used/Marketing Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 497686,
+   "uncompressed": 2252431,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Other/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Other/Other software-observations.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 344860,
+   "uncompressed": 1479311,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Other/Other software-observations_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 358599,
+   "uncompressed": 1552861,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Security-used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Security-used/CleanedSecurity Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 273962,
+   "uncompressed": 1230763,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Security-used/Security Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 259879,
+   "uncompressed": 1170041,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Software Development-used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Software Development-used/Development Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 233982,
+   "uncompressed": 1037530,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Cleaned/Software Development-used/Development Software_AI_Enrichment_Complete.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 246627,
+   "uncompressed": 1091991,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Analyitcs software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43868,
+   "uncompressed": 260414,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Crm Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22544,
+   "uncompressed": 92472,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Development Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15782,
+   "uncompressed": 67675,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Digital Advertisin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9501,
+   "uncompressed": 45530,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Ecommerce Platform.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13919,
+   "uncompressed": 61243,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Education platforms.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6564,
+   "uncompressed": 25463,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/ERP Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31053,
+   "uncompressed": 189116,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Financial Services Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34094,
+   "uncompressed": 187872,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Healthcare software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31039,
+   "uncompressed": 196347,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/HR Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13624,
+   "uncompressed": 84566,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/IT MAnagement sfotware.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14748,
+   "uncompressed": 92385,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Marketing Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18234,
+   "uncompressed": 78817,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Other software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18192,
+   "uncompressed": 107036,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/No Emails/Security Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11668,
+   "uncompressed": 56449,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Analyitcs software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1407156,
+   "uncompressed": 5565382,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Crm Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 620473,
+   "uncompressed": 2504466,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Development Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 424819,
+   "uncompressed": 1815566,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Digital Advertising platforms.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 425935,
+   "uncompressed": 1942187,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Ecommerce Platform.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 446655,
+   "uncompressed": 1833123,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Education platforms.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 234000,
+   "uncompressed": 1068881,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/ERP Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 774258,
+   "uncompressed": 3134082,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Financial Services Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1117523,
+   "uncompressed": 4357584,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Healthcare software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 741551,
+   "uncompressed": 2995716,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/HR Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 569198,
+   "uncompressed": 2353522,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/IT MAnagement sfotware.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 282073,
+   "uncompressed": 1241623,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Marketing Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 713749,
+   "uncompressed": 2971163,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Other software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 480192,
+   "uncompressed": 1908872,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos Cleaned/Raw/Security Software.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 456027,
+   "uncompressed": 2024353,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Getlanka Software Company Database 24,404/SAAS Companieos.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3915213,
+   "uncompressed": 17384440,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

@@ -1,0 +1,612 @@
+{
+ "archive": "Copy of Almost Full Crunchbase Database 2,807,492.zip",
+ "drive_id": "1jKjJcVb1a7H-y7V_MUlTk0EslR1q6_wU",
+ "size": 442950637,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "crunchbase_companies/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/._crunchbase_companies",
+   "is_dir": false,
+   "ext": "_crunchbase_companies",
+   "compressed": 135,
+   "uncompressed": 212,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.4m-1.5m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15825065,
+   "uncompressed": 58536271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.4m-1.5m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.9m-2.0m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15707531,
+   "uncompressed": 58753329,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.9m-2.0m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1m-1.1m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15800306,
+   "uncompressed": 59338045,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1m-1.1m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_300k-400k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15737987,
+   "uncompressed": 58942573,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_300k-400k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.8m-2.87m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1223899,
+   "uncompressed": 4256045,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.8m-2.87m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.8m-1.9m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15816779,
+   "uncompressed": 59248679,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.8m-1.9m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.6m-1.7m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15953798,
+   "uncompressed": 59150270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.6m-1.7m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.1m-2.2m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15877076,
+   "uncompressed": 59013276,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.1m-2.2m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_800k-900k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15758261,
+   "uncompressed": 59108585,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_800k-900k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_900k-1m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15858167,
+   "uncompressed": 59116324,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_900k-1m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.3m-1.4m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15813530,
+   "uncompressed": 58731387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.3m-1.4m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_200k-300k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15886045,
+   "uncompressed": 59482073,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_200k-300k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_500k-600k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15630759,
+   "uncompressed": 59218799,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_500k-600k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.5m-2.6m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15855147,
+   "uncompressed": 59076405,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.5m-2.6m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_400k-500k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15683124,
+   "uncompressed": 60111568,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_400k-500k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.2m-1.3m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15701840,
+   "uncompressed": 58485770,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.2m-1.3m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_600k-700k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15502013,
+   "uncompressed": 58769121,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_600k-700k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.7-2.8m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15893880,
+   "uncompressed": 57030709,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.7-2.8m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.1m-1.2m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15638970,
+   "uncompressed": 59179510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.1m-1.2m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_100k-200k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15938771,
+   "uncompressed": 60166863,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_100k-200k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.3m-2.4m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15801614,
+   "uncompressed": 59086754,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.3m-2.4m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_700k-800k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15736566,
+   "uncompressed": 59125094,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_700k-800k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.6m-2.7m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15822544,
+   "uncompressed": 59037835,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.6m-2.7m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.2m-2.3m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15716609,
+   "uncompressed": 59367475,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.2m-2.3m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_0-100k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15786586,
+   "uncompressed": 58647009,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_0-100k.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.5m-1.6m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15597330,
+   "uncompressed": 59378276,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.5m-1.6m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_1.7-1.8m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15938012,
+   "uncompressed": 59373788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_1.7-1.8m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.4m-2.5m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15619726,
+   "uncompressed": 59382918,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.4m-2.5m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  },
+  {
+   "path": "crunchbase_companies/crunchbase_2.0m-2.1m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15806224,
+   "uncompressed": 59255244,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "__MACOSX/crunchbase_companies/._crunchbase_2.0m-2.1m.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 243,
+   "uncompressed": 406,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": true
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

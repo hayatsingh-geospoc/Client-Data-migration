@@ -1,0 +1,5852 @@
+{
+ "archive": "Copy of Seamless Database 1,547,199.zip",
+ "drive_id": "1KwlBL5orcwvkyY9noQfsDozjLTMdEXJr",
+ "size": 1455526360,
+ "modtime": "2026-06-13T14:54:21.739Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Seamless Database 1,547,199/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accessories, Retail, Apparel & Fashion, Luxury, Goods & Jewelry, 2- 50E, Shopify.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 133980,
+   "uncompressed": 1466655,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accountant - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 369100,
+   "uncompressed": 1574028,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accountant - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 429749,
+   "uncompressed": 2089602,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - Belgium, Czech Republic, Greece, Portugal, Sweden, Hungary, Austria, Serbia, Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 57662,
+   "uncompressed": 237978,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - Bulgaria, Denmark, Finland, Slovak Republic, Norway, Ireland, Croatia, Lithuania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46779,
+   "uncompressed": 193921,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 228269,
+   "uncompressed": 1053271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - Colorado.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41038,
+   "uncompressed": 218365,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - Russian Federation, Germany, UK, France, Italy, Spain, Ukraine, Poland, Romania, , Netherland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 227622,
+   "uncompressed": 1119961,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - Thailand, Malaysia, Singapore, Hong Kong, Indonesia, Australia, Japan, Taiwan, Korea, UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 237247,
+   "uncompressed": 1014080,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting - UK 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 813711,
+   "uncompressed": 4030954,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 881820,
+   "uncompressed": 4059092,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting 3 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1135506,
+   "uncompressed": 4723505,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting Firm - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 115645,
+   "uncompressed": 576426,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting Firm, Accounting, Book Keeping - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 364807,
+   "uncompressed": 1633543,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting Practice & Tax Firm (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31900,
+   "uncompressed": 99564,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting Practice & Tax Firm.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31900,
+   "uncompressed": 99564,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting, C-Level - Illinois.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2113345,
+   "uncompressed": 11502966,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Accounting.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 433912,
+   "uncompressed": 2008685,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Advertising Agency - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 180530,
+   "uncompressed": 652750,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Affiliate Marketer - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 222209,
+   "uncompressed": 944737,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agency - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 911410,
+   "uncompressed": 3839100,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agency - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 512130,
+   "uncompressed": 2113847,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agency - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 415960,
+   "uncompressed": 1755691,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agency - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1937861,
+   "uncompressed": 8293800,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agtech Seamless Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agtech Seamless Database/1K domains - CropReach-22K leads.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6467585,
+   "uncompressed": 22818273,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Agtech Seamless Database/cleaned-1K domains - CropReach-22K leads.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1100251,
+   "uncompressed": 4119153,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Air Conditioning in Charlotte, NC (Report by Karston Fox).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43958,
+   "uncompressed": 218226,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Airline, Aviation - Germany, France, Belgium.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46047,
+   "uncompressed": 282416,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Alarm Security.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 533397,
+   "uncompressed": 2202030,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Aluminum Metal - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27171,
+   "uncompressed": 243420,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Apparel & Fashion - Mexico & Argentina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1574,
+   "uncompressed": 5013,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Apparel & Fashion - Spain.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 681639,
+   "uncompressed": 7242723,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Apparel & Fashion, 11 - 100E - Spain.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21741,
+   "uncompressed": 80830,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Apparel & Fashion, CS, Head of CS - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13107,
+   "uncompressed": 50536,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Auto Detailing - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 270491,
+   "uncompressed": 1366485,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Automotive - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1012844,
+   "uncompressed": 4362616,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Beauty Salon - Non-US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 192085,
+   "uncompressed": 706783,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Benefits Specialist - FL & AL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 128047,
+   "uncompressed": 646741,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Benefits Specialist - TN & GA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 149475,
+   "uncompressed": 742476,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Biotechnology - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4015118,
+   "uncompressed": 15241739,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Block Chain, 11 - 1000E, OFC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4656428,
+   "uncompressed": 20538140,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Blockchain - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 569390,
+   "uncompressed": 3209840,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Book Keeping, Financial Services, Accounting - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 342414,
+   "uncompressed": 1964606,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/BreweryWinery - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 230947,
+   "uncompressed": 1582687,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Builder, Construction - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9037864,
+   "uncompressed": 32827976,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Building Manager, Commercial RE, Cleaning Sup, Maintenance Sup - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 383807,
+   "uncompressed": 2041516,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Bulk Upload - Germany.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 245000,
+   "uncompressed": 1155853,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Bulk Upload, OFC, C-Level, VP, Director, 1 -10E.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2204859,
+   "uncompressed": 9043419,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business Broker 6K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1780538,
+   "uncompressed": 7209044,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business Broker, mergers and acquisition.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18655684,
+   "uncompressed": 101940241,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business Coach - Dallas and Fort Worth, Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27475,
+   "uncompressed": 122599,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business Coach - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 238790,
+   "uncompressed": 976941,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business Coach, OFC - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22585,
+   "uncompressed": 90600,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business CPA, US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26360,
+   "uncompressed": 259786,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Business Loan, Business Lending, Business Lenders, Business Creditor, Business Granter, Money Lender - Canada & US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 109858,
+   "uncompressed": 515730,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Butcher - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43752,
+   "uncompressed": 152432,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/C- Level - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3418031,
+   "uncompressed": 14000073,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/C-Level, 2 -50E - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6462104,
+   "uncompressed": 26037481,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/C-Level, VP, Director - Hoboken, NJ.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 407320,
+   "uncompressed": 2058502,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Car Dealership - Netherland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5270,
+   "uncompressed": 54817,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/CEO, Owner, Founder, 201 - 500E - Madison, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 166303,
+   "uncompressed": 820001,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/CEO, Owner, Founder, 501 - 5000E - Madison, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 267192,
+   "uncompressed": 1399849,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/CFO - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1919326,
+   "uncompressed": 7186514,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Chief Operating Officer - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 461152,
+   "uncompressed": 1835884,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Chiropractor - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 150228,
+   "uncompressed": 722365,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Chiropractor - US (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 359341,
+   "uncompressed": 1699123,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Chiropractor - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 359341,
+   "uncompressed": 1699123,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Chiropractor 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 156530,
+   "uncompressed": 736591,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Church, Pastor - New Jersey.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 708028,
+   "uncompressed": 2777553,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Church, Pastor, Religious Institution - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 558152,
+   "uncompressed": 3098935,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cigar, Lounge - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 287109,
+   "uncompressed": 1529453,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning - Oklahoma.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 159629,
+   "uncompressed": 712855,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 75419,
+   "uncompressed": 315486,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 693063,
+   "uncompressed": 3054566,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - Georgia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 99430,
+   "uncompressed": 519474,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - New York (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41648,
+   "uncompressed": 202156,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41648,
+   "uncompressed": 202156,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - Ohio.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39617,
+   "uncompressed": 182529,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 87724,
+   "uncompressed": 499641,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Service - VA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 66782,
+   "uncompressed": 323340,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Services - Nevada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33304,
+   "uncompressed": 404857,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cleaning Services, 1 - 50E, Minnesota.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 90136,
+   "uncompressed": 533317,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/CMO_CEO_Managing Director - Lexington.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 542427,
+   "uncompressed": 2362794,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coach - NY & CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 847310,
+   "uncompressed": 3321399,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coach 15K - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4387214,
+   "uncompressed": 23483918,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coach, Consultant - Norway, Finland, Denmark.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1581369,
+   "uncompressed": 7294503,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coach, Consultant, Agency - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38553,
+   "uncompressed": 218500,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/CoachConsultant - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 390231,
+   "uncompressed": 1521543,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/coache, consultants, over 80k year.zip",
+   "is_dir": false,
+   "ext": "zip",
+   "compressed": 121088488,
+   "uncompressed": 121051618,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coaching, Coach, & Business Coach - AZ, UT, ID, MA & NC (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2853880,
+   "uncompressed": 12312934,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coaching, Coach, & Business Coach - AZ, UT, ID, MA & NC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2853880,
+   "uncompressed": 12312934,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coaching, Coach, Business Coach - FL & SC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3812738,
+   "uncompressed": 16257928,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Coaching, Coach, Life Coach & Business Coach - TX, KY & OK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2995600,
+   "uncompressed": 14971806,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Commercial and Janitorial Cleaning - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 262936,
+   "uncompressed": 1329365,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Commercial Loan - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 168367,
+   "uncompressed": 895724,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Compliance Manager, Quality Manager, Quality Assurance Manager -  US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3481209,
+   "uncompressed": 14352783,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Compliance Manager, Quality Manager, Quality Assurance Manager - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2351054,
+   "uncompressed": 10467503,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Computer Games, Gambling & Casino - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 828236,
+   "uncompressed": 3879161,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Computer Software - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 536821,
+   "uncompressed": 2111003,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Computer Software - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 600670,
+   "uncompressed": 2257634,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Computer Software, 11 - 1000E - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2605510,
+   "uncompressed": 11777322,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Concrete - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 956328,
+   "uncompressed": 4139285,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Concrete - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 647714,
+   "uncompressed": 2608949,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Concrete - San Diego.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 213424,
+   "uncompressed": 923341,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Concrete - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 214649,
+   "uncompressed": 1027218,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Concrete, C-Level, VP, Director.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6118343,
+   "uncompressed": 30064781,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Concrete, Paving, Pave, - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 462338,
+   "uncompressed": 2069571,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - Alabama.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 472558,
+   "uncompressed": 3528530,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - Mexico (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2553261,
+   "uncompressed": 17831020,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - Mexico.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 404449,
+   "uncompressed": 1854008,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - New Mexico & US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1460344,
+   "uncompressed": 6397818,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - Seattle & Austin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3718701,
+   "uncompressed": 21310869,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - Sweden.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 280584,
+   "uncompressed": 1750337,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3773361,
+   "uncompressed": 16858303,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - US (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 453421,
+   "uncompressed": 1966435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 453421,
+   "uncompressed": 1966435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction Engineer - Germany.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2367932,
+   "uncompressed": 13393024,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction Engineering - Germany.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 196542,
+   "uncompressed": 971819,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction, Director of Engineering, VP of Engineering - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 490419,
+   "uncompressed": 2129152,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction, Electrical, Utilities - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8177884,
+   "uncompressed": 45816984,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction, Engineer - Germany.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1816936,
+   "uncompressed": 10280787,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Construction, General Contractor - Colorado.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3517934,
+   "uncompressed": 17838839,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Consultant, Self Employed - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1598891,
+   "uncompressed": 7470298,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Consulting & Business Consulting - WA, IL, NY & TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 401015,
+   "uncompressed": 1962244,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Consulting Agency - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 442052,
+   "uncompressed": 1827937,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cosmetic Clinic, Cosmetic Services - Non-US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 73330,
+   "uncompressed": 326286,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Cosmetic Clinics, Cosmetic Services - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40705,
+   "uncompressed": 153740,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/CourseCoaching, 1 -10E, OFC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 797496,
+   "uncompressed": 2960794,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Custom Homes - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1758100,
+   "uncompressed": 6668159,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist - AL, AK, AZ, NY.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2303341,
+   "uncompressed": 11057899,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist - France.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 50455,
+   "uncompressed": 198248,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist - IL, IN, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 440864,
+   "uncompressed": 1789295,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist, Dental, Teeth - IL, IN, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1117414,
+   "uncompressed": 4143215,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist, Dentistry - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1758435,
+   "uncompressed": 7323710,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist, Orthodontist, Cosmetic Dentist, Pediatric Dentist - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 369306,
+   "uncompressed": 1868933,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dentist_Orthodontist_Pediatric Dentist_Cosmetic Dentist - UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 316089,
+   "uncompressed": 1546469,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dermatologist - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 608140,
+   "uncompressed": 3858170,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dermatology - CA & TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 213013,
+   "uncompressed": 991712,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Design - Indiana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107723,
+   "uncompressed": 488462,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Design - Miami, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 245779,
+   "uncompressed": 1075842,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Design - Minnesota.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 202824,
+   "uncompressed": 919040,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Design - San Francisco, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 866680,
+   "uncompressed": 3246122,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Design - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1038007,
+   "uncompressed": 4640605,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Design - Wisconsin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 120756,
+   "uncompressed": 618136,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Detailing - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113183,
+   "uncompressed": 417333,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing - Seattle and Arlington.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 297304,
+   "uncompressed": 1536095,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing - UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2018528,
+   "uncompressed": 8084604,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing - US 7K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3391504,
+   "uncompressed": 13947522,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 489804,
+   "uncompressed": 2008154,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing 2 - US (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3358205,
+   "uncompressed": 13438022,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 628456,
+   "uncompressed": 2432060,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing 3 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 423618,
+   "uncompressed": 1842577,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing 4 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1264726,
+   "uncompressed": 5111592,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing Agency - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 402649,
+   "uncompressed": 1472737,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing Agency 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 97367,
+   "uncompressed": 466199,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing, Marketing & Advertising - Europe.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 76834,
+   "uncompressed": 310261,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing, Marketing, Agency - Arizona.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42158,
+   "uncompressed": 194785,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Digital Marketing, Marketing, Growth Strategist - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3161333,
+   "uncompressed": 12920122,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Director,VP, CEO 5K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2403720,
+   "uncompressed": 8441105,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Dog Training - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 268814,
+   "uncompressed": 1204118,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/E-Learning, Sales, Marketing, Operations, Support - Spain.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 179554,
+   "uncompressed": 876447,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Ecommerce - US, UK, Canada, New Zealand, Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 393752,
+   "uncompressed": 1706446,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Ecommerce, $1M - $5M - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 623125,
+   "uncompressed": 2037858,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Ecommerce, $5M - $20M - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1526082,
+   "uncompressed": 5403310,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Ecommerce, C-Suite Partner, $5M - $20M.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 58333,
+   "uncompressed": 323288,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Electrical - US 5K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2558728,
+   "uncompressed": 10593489,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Electrical, Railroad Manufacturer - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 690080,
+   "uncompressed": 3329057,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Employee Benefits - Ohio.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1171197,
+   "uncompressed": 11481974,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Employee Benefits - TN & GA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1605509,
+   "uncompressed": 10259717,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Employee Benefits - US 5K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1893859,
+   "uncompressed": 13170281,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Employee Benefits, Insurance - VA, NC, SC, FL, AL, MS, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1052890,
+   "uncompressed": 8064665,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Employee Benefits, Insurance - WV, MD, NJ, PA, NY, RI, DE, MA, ME, VT.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1478472,
+   "uncompressed": 13018275,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Epoxy, Construction - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 163205,
+   "uncompressed": 665143,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Event Planner - UT, AZ, NV, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1588127,
+   "uncompressed": 6887241,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Event, Bars - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 272807,
+   "uncompressed": 1098961,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Facilities Service, Staffing and Recruiting, HR - South Africa 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 610828,
+   "uncompressed": 3872802,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Facilities Service, Staffing and Recruiting, HR - South Africa.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 270714,
+   "uncompressed": 1776171,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Facility Manager, Commercial Property Manager, Store Manager - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 416130,
+   "uncompressed": 1938236,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Fashion & Apparel, OFCP.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1857901,
+   "uncompressed": 7522486,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Fence Contractor - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 421692,
+   "uncompressed": 1925924,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Fence Contractor.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 88646,
+   "uncompressed": 470541,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/fencing.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 197121,
+   "uncompressed": 622015,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Finacial Advisor 10K - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3012976,
+   "uncompressed": 15822136,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Financial Planning - MN and WI.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 397726,
+   "uncompressed": 1943762,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Financial Service, 1 - 200E - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3999580,
+   "uncompressed": 14614279,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Financial Service, Logistic, Construction. Retail, Staffing & Recruiting - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 500795,
+   "uncompressed": 2133311,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Financial Services - Canada & US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1038559,
+   "uncompressed": 4336011,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Financial Services, Legal Services, HR, IT, Hospital & Healthcare - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1523472,
+   "uncompressed": 6532684,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Fintech, Financial Service - UK, US, Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 881452,
+   "uncompressed": 3604657,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Flooring & Roofing - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3079563,
+   "uncompressed": 10974769,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Flooring - Construction.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 485754,
+   "uncompressed": 2080822,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Food Production - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1419946,
+   "uncompressed": 4927908,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Food, Restaurant, Grub - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 552033,
+   "uncompressed": 1877365,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Founder, Owner, CEO, 51 - 200E - Madison.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 336074,
+   "uncompressed": 1600473,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Functional Medicine - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 93753,
+   "uncompressed": 370651,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Furniture - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 241653,
+   "uncompressed": 970523,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Furniture - NY & CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4681716,
+   "uncompressed": 20995671,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Furniture, C-Level, VP, Director - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4387906,
+   "uncompressed": 21378369,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Gambling & Casino, Financial Services, Pharmaceuticals, Electrical - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 373694,
+   "uncompressed": 1769453,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Gambling & Casino, Financial Services, Pharmaceuticals, Electrical - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2532514,
+   "uncompressed": 10816367,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Gambling & Casino, Financial Services, Pharmaceuticals, Electrical, Training Manager - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2574571,
+   "uncompressed": 10967405,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Gift, Silver Ware, Jewelry. Present, Souvenir, 2 - 50E, Shopify.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 259685,
+   "uncompressed": 2832210,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Gold, Metal, Silver - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1031770,
+   "uncompressed": 5907664,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Gov. AdminOil & EnergyGov. Relations Computer & NetworkSecurity & Investigation - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 785087,
+   "uncompressed": 3496314,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Graphic Design, Design, VP, C-Level, Director, Senior - Connecticut.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 60445,
+   "uncompressed": 324638,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hair Dresser & Stylist - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 474458,
+   "uncompressed": 1915453,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hardscaping, Hardscrape - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 430522,
+   "uncompressed": 1832472,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Health, Wellness & Fitness, E-Learning, Financial Service, Apparel & Fashion, Computer Software -  TX, FL, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2059796,
+   "uncompressed": 7671364,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Healthcare - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 417277,
+   "uncompressed": 2372927,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Heating , Conditioning, HVAC, HAV, Vent, Heat, - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2558602,
+   "uncompressed": 10750163,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Care - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 583822,
+   "uncompressed": 2435297,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health & Hospice - Arizona.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 286669,
+   "uncompressed": 1635615,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health & Hospice - KS & OR.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 476660,
+   "uncompressed": 2754732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Healthcare, Hospice - Phoenix and Houston, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 111786,
+   "uncompressed": 792644,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Brooklyn & Rochester.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 154293,
+   "uncompressed": 1005565,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 344567,
+   "uncompressed": 2713609,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Columbus.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 160400,
+   "uncompressed": 1258011,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Dallas, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 478242,
+   "uncompressed": 3344983,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Georgia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 321262,
+   "uncompressed": 2802161,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Michigan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 586599,
+   "uncompressed": 3461419,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - New York 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 121354,
+   "uncompressed": 803104,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - New York 3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 539307,
+   "uncompressed": 3513124,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 128351,
+   "uncompressed": 1744246,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - North Carolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 469974,
+   "uncompressed": 2844762,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Ohio.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 201438,
+   "uncompressed": 1288704,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Phoenix.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 385620,
+   "uncompressed": 3667042,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - South Carolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 234917,
+   "uncompressed": 1364645,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 385918,
+   "uncompressed": 2030200,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospice - UT.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 258592,
+   "uncompressed": 1885455,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Health, Hospie - Cincinnati.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 82895,
+   "uncompressed": 810112,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Renovation - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 649133,
+   "uncompressed": 2683751,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Home Security.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 485928,
+   "uncompressed": 2391140,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hone Health & Hospice - San Francisco, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 526806,
+   "uncompressed": 5720225,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospice - CO & ID.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 472502,
+   "uncompressed": 3526709,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospice - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1185851,
+   "uncompressed": 5562035,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospice 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 335254,
+   "uncompressed": 1256591,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospice, Healthcare, Home Health - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 257019,
+   "uncompressed": 1911149,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospital & Health Care, Medical Practice - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7706933,
+   "uncompressed": 33327677,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospital and Healtcare - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 527048,
+   "uncompressed": 2452603,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospitality Manager, Cleaning Supervisor, Regional Manager - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 780195,
+   "uncompressed": 3443349,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospitality, Leisure, Trave, Aviation - Germany, Belium, France.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 775998,
+   "uncompressed": 3643881,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Hospitallity, Leisure, Travel, Tourism, Airline, Aviation - France,Germany, Belgium.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 277521,
+   "uncompressed": 1365779,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Human Resources - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2735859,
+   "uncompressed": 10906617,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC -  IO,MA, AL, WY, VR, ND, MN, WS, DE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 544079,
+   "uncompressed": 2428524,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC - CA & NC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 213040,
+   "uncompressed": 792309,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC - MI, IN, LA, NH, SC, WV, RI, MS, CO, AR.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 203268,
+   "uncompressed": 765451,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC - NY & FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 300383,
+   "uncompressed": 1089579,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC - OH, WA, IL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 293784,
+   "uncompressed": 1200418,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC - PA, MI, GA, UT, KS, MT, OR.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 378075,
+   "uncompressed": 1613049,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC - TX, NV, NM, NJ, OK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 318531,
+   "uncompressed": 1150129,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC, $1M - $20M - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 674311,
+   "uncompressed": 2671239,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/HVAC, Vent, Heating, AC, Plumbing - Charlotte, NC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1810538,
+   "uncompressed": 11025289,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Ice Cream, Dairy, Yogurt, Food Production, Food & Beverage - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 132744,
+   "uncompressed": 1535115,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Independent Affiliate - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 401766,
+   "uncompressed": 1714860,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Industrial Automation- Alabama, Alaska, Arizona, Arkansas, California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 416165,
+   "uncompressed": 1743729,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Information Technology - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2976444,
+   "uncompressed": 10593887,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Information Technology, HR Director - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 345209,
+   "uncompressed": 1563479,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Information Technology, Shopify - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2677,
+   "uncompressed": 35709,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Belgium, Czech Republic, Greece, Portugal, Sweden, Hungary, Austria, Serbia, Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 230624,
+   "uncompressed": 910503,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Bulgaria, Denmark, Finland, Slovak Republic, Norway, Ireland, Croatia, Lithuania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 145142,
+   "uncompressed": 604081,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 703319,
+   "uncompressed": 3047192,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Chile.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33123,
+   "uncompressed": 169283,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Mexico.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 341298,
+   "uncompressed": 2442880,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Spain.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 198730,
+   "uncompressed": 943543,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - Thailand, Malaysia, Singapore, Hong Kong, Indonesia, Australia, Japan, Taiwan, Korea, UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 610318,
+   "uncompressed": 2907321,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - US 5K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2698224,
+   "uncompressed": 12166402,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 443463,
+   "uncompressed": 1994547,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance -Russian Federation, Germany, UK, France, Italy, Spain, Ukraine, Poland, Romania, Netherland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 740921,
+   "uncompressed": 2943634,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Insurance, Banking, Logistics, Pharmaceutical - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 279489,
+   "uncompressed": 1537811,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Interior Design - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 464487,
+   "uncompressed": 2306751,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Interior Design, Architecture & Planning - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 571685,
+   "uncompressed": 3311416,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Investor - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5460206,
+   "uncompressed": 21291243,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Iridium Buyer.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29101,
+   "uncompressed": 91152,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/IT Director - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46597,
+   "uncompressed": 186597,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/IT Services - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107384,
+   "uncompressed": 503360,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/IT Staffing, Human Resources - NY, CA, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1265922,
+   "uncompressed": 7367689,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Kitchen - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 868078,
+   "uncompressed": 4138447,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Kitchen Remodeling.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 578676,
+   "uncompressed": 2508497,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Kitchen, Bathroom, Remodeling, Construction - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1247750,
+   "uncompressed": 4881277,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Kitchen, Construction, OFC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1199061,
+   "uncompressed": 4383344,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Kitchen_Remodeling_California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3180653,
+   "uncompressed": 14912958,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Kitchen_Remodeling_Top_871_900.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1069693,
+   "uncompressed": 4837387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Laboratories - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 304853,
+   "uncompressed": 1184382,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Laboratories - US, UK, New Zealand, Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4274394,
+   "uncompressed": 17263328,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Landscaping - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2218666,
+   "uncompressed": 9771508,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Landscaping - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 384008,
+   "uncompressed": 1689870,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Landscaping 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 281311,
+   "uncompressed": 1242218,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Landscaping 3 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 849595,
+   "uncompressed": 3718820,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Landscaping 4 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1252143,
+   "uncompressed": 5391279,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Landscaping, Landscape, $5M -California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1331264,
+   "uncompressed": 4772992,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Law Firm - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 480206,
+   "uncompressed": 2093962,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Law Practice - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 435656,
+   "uncompressed": 2014222,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Lawyer - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 331176,
+   "uncompressed": 1834874,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Leasing Manager, Facility Director, Facility VP - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 159109,
+   "uncompressed": 745960,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Libraries, Museums & Institutions - Madison, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 123258,
+   "uncompressed": 1184471,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Loan, Lending - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2369094,
+   "uncompressed": 9755622,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Logistic & Supply Chain, Electrical, Electronic Manufacturer, Financial Services - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1812256,
+   "uncompressed": 8321896,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Logistic & Supply Chain, Electrical, Electronic Manufacturer, Transportation, Trucking, Staffing & Recruiting, $100k - $1M, - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1273709,
+   "uncompressed": 5690041,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Logistic, Pharmaceutical, Translation, Transportation - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 602890,
+   "uncompressed": 3191278,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Logistics & Supply Chain, Electrical, Financial Service, Leisure, Railroad - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 152763,
+   "uncompressed": 624309,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/M&A 15K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5398346,
+   "uncompressed": 25893434,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Maintenance Manager, Property Manager - PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 446041,
+   "uncompressed": 2141767,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Maintenance Manager, Real Estate Manager, Facility Manager, Commercial Property Manager, DR of Maintenance - Philadelphia, PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 513829,
+   "uncompressed": 2757644,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Management Consulting - Belgium, Czech Republic, Greece, Portugal, Sweden, Hungary, Austria, Serbia, Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 420045,
+   "uncompressed": 1691635,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Management Consulting - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1574516,
+   "uncompressed": 6416573,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Management Consulting, VP, C-Level, Director, Senior - Connecticut.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 322226,
+   "uncompressed": 1785207,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Management Consulting- Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 395668,
+   "uncompressed": 1882041,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Management Consulting- Russian Federation, Germany, UK, France, Italy, Spain, Ukraine, Poland, Romania, Netherland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 531268,
+   "uncompressed": 2124683,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Managing Consulting - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 666701,
+   "uncompressed": 2652833,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Manufacturing - Connecticut.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 955083,
+   "uncompressed": 3909897,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Manufacturing - Minnesota.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1713410,
+   "uncompressed": 8489101,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Manufacturing Company - Chile.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14597,
+   "uncompressed": 87678,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Manufacturing Company - Kentucky.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38277,
+   "uncompressed": 269322,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Manufacturing, Aerospace, Automotive, Oil & Energy, Construction - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2158055,
+   "uncompressed": 11397427,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Belgium, Czech Republic, Greece, Portugal, Sweden, Hungary, Austria, Serbia, Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 995411,
+   "uncompressed": 4210257,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Bulgaria, Denmark, Finland, Slovak Republic, Norway, Ireland, Croatia, Lithuania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 766758,
+   "uncompressed": 3417006,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Canada (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1236757,
+   "uncompressed": 5127422,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1002213,
+   "uncompressed": 4093162,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Idaho.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 494489,
+   "uncompressed": 2277662,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Lithuania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31308,
+   "uncompressed": 204510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Russian Federation, Germany, UK, France, Italy, Spain, Ukraine, Poland, Romania, Netherland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1353194,
+   "uncompressed": 5471721,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - Thailand, Malaysia, Singapore, Hong Kong, Indonesia, Australia, Japan, Taiwan, Korea, UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1420652,
+   "uncompressed": 5872520,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - US 55K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26066975,
+   "uncompressed": 107667060,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44867,
+   "uncompressed": 628608,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising, 201 - 500E - India.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 105720,
+   "uncompressed": 496314,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising, Graphic Design, Design - Alabama.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 872842,
+   "uncompressed": 4621339,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising, Self-Employed - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 384019,
+   "uncompressed": 1453242,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing & Advertising, VP, C-Level, Director, Senior - Connecticut.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 817156,
+   "uncompressed": 4980595,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Advertising - Bulk Upload.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 463204,
+   "uncompressed": 1996792,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 934081,
+   "uncompressed": 4069017,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - Chattanooga.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 316025,
+   "uncompressed": 1552321,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - Germany.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 334629,
+   "uncompressed": 2023965,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - Houston, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14986,
+   "uncompressed": 62643,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - Kansas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28731,
+   "uncompressed": 127211,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31949,
+   "uncompressed": 139148,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 411094,
+   "uncompressed": 1912372,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 950064,
+   "uncompressed": 5039605,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 444940,
+   "uncompressed": 2030515,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - US, UK, Canada, New Zealand, Australia, Ireland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2705176,
+   "uncompressed": 10147653,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 465650,
+   "uncompressed": 1922830,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 169400,
+   "uncompressed": 777352,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency 3 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 610928,
+   "uncompressed": 2717015,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency in Oslo, OSLO (Report by Karston Fox).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44426,
+   "uncompressed": 234240,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, 51 - 200E - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1965881,
+   "uncompressed": 10149835,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, 51 - 200E, US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 821381,
+   "uncompressed": 4267212,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, 51 -200, $5M - $20M - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 262601,
+   "uncompressed": 1350006,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Bulk Upload - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 440659,
+   "uncompressed": 1938871,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Agency - Chicago.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 158231,
+   "uncompressed": 850627,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Jacksonville & Tallahassee, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 100302,
+   "uncompressed": 455529,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Los Angeles.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 346094,
+   "uncompressed": 1566644,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Miami, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 260165,
+   "uncompressed": 1140233,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Orlando, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 130757,
+   "uncompressed": 594737,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Sacramento & San Francisco, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172678,
+   "uncompressed": 782053,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - San Diego.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 208736,
+   "uncompressed": 1003845,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Tampa, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 149061,
+   "uncompressed": 696857,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, Digital Marketing - Washington.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 365782,
+   "uncompressed": 1330088,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Agency, HubSpot - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14471,
+   "uncompressed": 63975,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Ageny - IL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 166292,
+   "uncompressed": 739326,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Adverting - Louisiana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 359598,
+   "uncompressed": 1628708,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertisement - Israel.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 461851,
+   "uncompressed": 1854216,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertising - Arizona.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 407441,
+   "uncompressed": 1838334,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertising - Brooklyn.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 462311,
+   "uncompressed": 1955540,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertising - Bulk Upload, Ohio.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 420011,
+   "uncompressed": 1891514,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertising - Italy.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 445015,
+   "uncompressed": 1488259,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertising - Portland, OR.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 433029,
+   "uncompressed": 1955999,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing and Advertising, Bulk Upload - Kentucky.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 435889,
+   "uncompressed": 1955403,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Coach - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 419131,
+   "uncompressed": 1809962,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing Consulting - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 740308,
+   "uncompressed": 3928199,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Marketing, Digital Marketing - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 430440,
+   "uncompressed": 1959299,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/MarketingStaffing - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3456037,
+   "uncompressed": 13612606,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Masonry, Hardscaping.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 491613,
+   "uncompressed": 2064150,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Massage - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4258847,
+   "uncompressed": 18627915,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Massages, 2 - 50E - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1471390,
+   "uncompressed": 5037898,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Medical Clinic - Non-US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 154299,
+   "uncompressed": 531450,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Medical Spa - US (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 177426,
+   "uncompressed": 658035,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Medical Spa - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 109688,
+   "uncompressed": 517416,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Merger and Acquisition - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 329665,
+   "uncompressed": 1308081,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Merger and Acquisition.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43806,
+   "uncompressed": 180849,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Mobile Detail - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 53983,
+   "uncompressed": 284195,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Mobile Detailer - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9070,
+   "uncompressed": 37210,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Mobile Detailing - US (3).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113936,
+   "uncompressed": 588368,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Mobile Detailing - US 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 302625,
+   "uncompressed": 1655853,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Mobile Detailing 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 183236,
+   "uncompressed": 750190,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Mortgage - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 400888,
+   "uncompressed": 2445022,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Moving Company - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 641360,
+   "uncompressed": 2939459,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Museum & Constitution, Communication - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 110529,
+   "uncompressed": 560984,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Museums & Institution, Communication - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 727555,
+   "uncompressed": 3107304,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Numismatic Coins, Coin Collector.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31908,
+   "uncompressed": 234517,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Nursing Student - Washington.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 62635,
+   "uncompressed": 339227,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/OFC, 11 -50E, Madison, WI.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 654510,
+   "uncompressed": 2819389,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/OFC, 2 -10E - Madison, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 543589,
+   "uncompressed": 1941250,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/OFCP - Houston, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4357269,
+   "uncompressed": 15812130,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/OFCP, $100k - $20M - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1119337,
+   "uncompressed": 4708784,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Office Manager - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 643801,
+   "uncompressed": 2766535,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Oil & Energy - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2433912,
+   "uncompressed": 11147574,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Oil & Energy, Director of Engineering, VP of Engineering - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2291400,
+   "uncompressed": 10364229,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Online Marketer - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 390730,
+   "uncompressed": 1552085,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Operation 6k - UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2428734,
+   "uncompressed": 8932052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Operation Manager - Madison, WI.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 511315,
+   "uncompressed": 2395305,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Owner, 10 - 10kE - Dallas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 534288,
+   "uncompressed": 2233115,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Owner, Bulk Upload - UK and US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 433144,
+   "uncompressed": 1906271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Paving - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1046622,
+   "uncompressed": 4341869,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Paving 2 - US .csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 272580,
+   "uncompressed": 1445726,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/PEO & ASO - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 318733,
+   "uncompressed": 3001453,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Personal Trainer - Los Angeles.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 241850,
+   "uncompressed": 1196892,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical -  UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 698741,
+   "uncompressed": 3702051,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical - Dallas, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 513641,
+   "uncompressed": 2193779,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 375180,
+   "uncompressed": 1653633,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical - US (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3388611,
+   "uncompressed": 15321475,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical - US, UK, Canada, New Zealand, Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5269055,
+   "uncompressed": 23353136,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1439720,
+   "uncompressed": 6034327,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pharmaceutical Manufacturing - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 941220,
+   "uncompressed": 4270587,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Photobooth_Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 62212,
+   "uncompressed": 279692,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Photography - Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5778,
+   "uncompressed": 19945,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Podiatrist 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 100936,
+   "uncompressed": 377947,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pool - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 311694,
+   "uncompressed": 1514244,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pool 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 800149,
+   "uncompressed": 3969360,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pool Contractors in Los Angeles, CA (Report by Karston Fox).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 112090,
+   "uncompressed": 524386,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Pool, Pool Installation - TX, OK, AR, LA, MS, AL, TN, KY.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 398672,
+   "uncompressed": 2001392,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/PR Agency, 51 -200E - US (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23756,
+   "uncompressed": 201639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/PR Agency, 51 -200E - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23756,
+   "uncompressed": 201639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/PR, Recruit - New York & California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2001790,
+   "uncompressed": 8115403,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Professional Training & Coaching - CA, IL, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 660671,
+   "uncompressed": 2454827,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Property Manager - Philadelphia, PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 353435,
+   "uncompressed": 1956932,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Public Relation - LA, NY and MIA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 60168,
+   "uncompressed": 330932,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Public Relation - Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18314,
+   "uncompressed": 88758,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Public Relation - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 214641,
+   "uncompressed": 926205,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Public Relation - UK & US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2650683,
+   "uncompressed": 11263189,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Public Relation - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 83143,
+   "uncompressed": 365219,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/RE Agent, RE Broker, Realtor, Broker - Hawaii.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 327630,
+   "uncompressed": 2061156,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/RE Agent, RE Broker, Realtor, Broker -Fort Collins and Nevada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 387091,
+   "uncompressed": 2152304,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/RE AgentRE BrokerRealtorBroker - AZ, CO, WA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 286460,
+   "uncompressed": 2450807,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agency - US, UK, Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1532286,
+   "uncompressed": 8305251,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agency, UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 362357,
+   "uncompressed": 3472760,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agent - Miami, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 414157,
+   "uncompressed": 2038034,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agent - North Carolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40731,
+   "uncompressed": 171512,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agent - Texas 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 759197,
+   "uncompressed": 4242639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agent - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 385818,
+   "uncompressed": 2115517,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Agent_Realtor - Scottdale, AZ.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 334779,
+   "uncompressed": 2157893,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Broker - Miami, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 444656,
+   "uncompressed": 2166833,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Alabama.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 104073,
+   "uncompressed": 377129,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Arizona.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 330630,
+   "uncompressed": 1559633,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Florida (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 227623,
+   "uncompressed": 935427,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1141457,
+   "uncompressed": 5399674,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Georgia (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 586985,
+   "uncompressed": 2745274,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Georgia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 370706,
+   "uncompressed": 1739307,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - South Carolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 180765,
+   "uncompressed": 836876,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113320,
+   "uncompressed": 500061,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 478598,
+   "uncompressed": 4844747,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 413439,
+   "uncompressed": 1832683,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate Investor 2 - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 478598,
+   "uncompressed": 4844747,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Real Estate, RE AgentRealtorRE Broker, US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 602486,
+   "uncompressed": 3058336,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Recruiter - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 129514,
+   "uncompressed": 580884,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Release Train Engineer - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2285062,
+   "uncompressed": 9085632,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Religious Institution - TN.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 623181,
+   "uncompressed": 3669337,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Remodeling - NJ, GA, NY, NC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 290291,
+   "uncompressed": 1108286,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Renewable & Environment - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 592701,
+   "uncompressed": 2761017,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Restaurant - Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9662,
+   "uncompressed": 39831,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Restaurant, 2 - 200E - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1194629,
+   "uncompressed": 4513364,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Restaurant, Food - Austin, TX.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 810572,
+   "uncompressed": 3612115,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Restaurants - Madison, WS.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 228790,
+   "uncompressed": 1259559,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Restaurants - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2033817,
+   "uncompressed": 10259874,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Retail, 2 - 50E - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7656664,
+   "uncompressed": 25611111,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Retail, Apparel & Fashion, Cosmetics, Consumer Goods- UK, US, Canada, Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5849579,
+   "uncompressed": 20737325,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Retail, Automotive, Restaurants & Transportation - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 912117,
+   "uncompressed": 3927965,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Retail, Insurance, Security & Investment, Oil & Energy - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2137040,
+   "uncompressed": 8484682,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Retail, Insurance, Security & Investment, Oil & Energy, Computer & Network Security - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3037082,
+   "uncompressed": 13481014,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Retail, Insurance, Security, Oil & Energy, Computer - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2903391,
+   "uncompressed": 13559747,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Revenue $20M - $50M - Arkansas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 489272,
+   "uncompressed": 2163925,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofer 5K.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1657212,
+   "uncompressed": 6326311,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 647502,
+   "uncompressed": 4113329,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing - FL, CO, CA, NC, IL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 196001,
+   "uncompressed": 844915,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing - Kentucky.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 630378,
+   "uncompressed": 3839869,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2306263,
+   "uncompressed": 11041396,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 367256,
+   "uncompressed": 2184201,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing Company - Arizona.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 117447,
+   "uncompressed": 618340,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing Company - Ohio.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 178160,
+   "uncompressed": 905481,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing Company - Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 76460,
+   "uncompressed": 378149,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing Company - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 992973,
+   "uncompressed": 4903821,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Roofing, OFC.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2302739,
+   "uncompressed": 8459118,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Saas - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 492759,
+   "uncompressed": 1683155,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Saas - San Francisco, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 833863,
+   "uncompressed": 3213882,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/SaaS - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4103668,
+   "uncompressed": 16216633,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/SaaS, B2B - Austria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10908,
+   "uncompressed": 47603,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/SaaS, B2B SaaS, B2B, Tech - UK & Israel.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24951,
+   "uncompressed": 127486,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Sales 10K - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4585056,
+   "uncompressed": 15759896,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Salesforce, Financial Service - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3019100,
+   "uncompressed": 13796552,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Salesforce, Telco - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 676701,
+   "uncompressed": 3010184,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Seamless Search-20250129T145500Z-001.zip",
+   "is_dir": false,
+   "ext": "zip",
+   "compressed": 731581910,
+   "uncompressed": 731705357,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Search Engine Optimization - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 265259,
+   "uncompressed": 1389936,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Self Employed - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4030871,
+   "uncompressed": 16684462,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Senior Account  Executive - South & North Carolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3734815,
+   "uncompressed": 15905065,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Senior Account Executive - Los Angeles & Las Vegas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2062870,
+   "uncompressed": 8684815,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Senior Account Executive - Michigan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 483837,
+   "uncompressed": 2163602,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Senior Pastor - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 438291,
+   "uncompressed": 1705204,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Shopify, Woo Commerce, Klaviyo, FB Pixel, Magento - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 533033,
+   "uncompressed": 1988862,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/ShopifyWooCommerce-  Germany, Austria and Switzerland  Seamless.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 355209,
+   "uncompressed": 1989323,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Small Business - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 672527,
+   "uncompressed": 3259530,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3021784,
+   "uncompressed": 16764740,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar - Los Angeles, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 359578,
+   "uncompressed": 2438818,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar - Mexico.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 79682,
+   "uncompressed": 344371,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar - New York.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 459890,
+   "uncompressed": 2110888,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1963161,
+   "uncompressed": 8050911,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar, OFC - Kansas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 69800,
+   "uncompressed": 265196,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Solar. OFCP - Texas & Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 899069,
+   "uncompressed": 3735712,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Spa, Health & Wellness - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1324720,
+   "uncompressed": 5158800,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Speaker - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 532316,
+   "uncompressed": 1987586,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Speaker 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1119352,
+   "uncompressed": 4189398,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Sports, Communications - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 388764,
+   "uncompressed": 1732956,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 491141,
+   "uncompressed": 2153155,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Belgium, Czech Republic, Greece, Portugal, Sweden, Hungary, Austria, Serbia, Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 178859,
+   "uncompressed": 739398,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 900629,
+   "uncompressed": 3256879,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 493209,
+   "uncompressed": 1991831,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 471446,
+   "uncompressed": 1717205,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - IN & MA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 391363,
+   "uncompressed": 1734801,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - NC & IL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 407053,
+   "uncompressed": 1605937,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - NY, CA, FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3458240,
+   "uncompressed": 12197721,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - OH & MI.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 437719,
+   "uncompressed": 1844718,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Russian Federation , Germany, UK, France, Italy, Spain, Ukraine, Poland, Romania, Netherland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 988038,
+   "uncompressed": 3990054,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 632604,
+   "uncompressed": 2311092,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - Thailand, Malaysia, Singapore, Hong Kong, Indonesia, Australia, Japan, Taiwan, Korea, UAE.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 540288,
+   "uncompressed": 2213916,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1787364,
+   "uncompressed": 7424995,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting -WA, OK, NJ.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 665137,
+   "uncompressed": 2503513,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 11 - 50E, GA & VA (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 587079,
+   "uncompressed": 2420412,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 11 - 50E, GA & VA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 587079,
+   "uncompressed": 2420412,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 51 - 200E - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1595296,
+   "uncompressed": 6964385,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 51 - 200E, - CT, RI, MA, ME.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 336174,
+   "uncompressed": 1571549,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 51 - 200E, - FL, AL, MS, AR, LA, GA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 523369,
+   "uncompressed": 2303387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 51 -200E - NC, SC, DE, MD, WV, VA, KY.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 364013,
+   "uncompressed": 1780723,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 51 -200E - NY & NH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 262170,
+   "uncompressed": 1312449,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruiting, 51 -200E, NJ & PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 603940,
+   "uncompressed": 2660455,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing & Recruitment - Bulgaria, Denmark, Finland, Slovak Republic, Norway, Ireland, Croatia, Lithuania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 133685,
+   "uncompressed": 530394,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing - Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 148827,
+   "uncompressed": 1311337,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1279492,
+   "uncompressed": 5357531,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 529851,
+   "uncompressed": 2338753,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting - NY, PA, CO, IL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 528568,
+   "uncompressed": 2358754,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting - NY.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55982,
+   "uncompressed": 309173,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting - Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 59052,
+   "uncompressed": 252258,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting - US 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1122496,
+   "uncompressed": 4632425,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 562715,
+   "uncompressed": 2337487,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting, Bulk Upload - UK 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 567381,
+   "uncompressed": 2465686,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting, Bulk Upload - UK 3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 481752,
+   "uncompressed": 2372007,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing and Recruiting, Bulk Upload - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 535614,
+   "uncompressed": 2251590,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing Firm - US 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 328636,
+   "uncompressed": 2325713,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing Firm - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 386448,
+   "uncompressed": 1734126,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing Firm 2 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 362405,
+   "uncompressed": 1440552,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing Firm 3 - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 505496,
+   "uncompressed": 2248274,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing, Recruiting - North Carolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1011953,
+   "uncompressed": 3610318,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Staffing, Recruiting - PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 320978,
+   "uncompressed": 1212565,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Start Up - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 333658,
+   "uncompressed": 1679052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Store Manager - Philadelphia, PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 533985,
+   "uncompressed": 3790804,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Store Mngr, Store, Commercial RE, Building Mngr, BLDG Superintendent, Maintenance SUP, Health & Safety Mngr, COO, Hospitality Mngr - Wisconsin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 407904,
+   "uncompressed": 1770588,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Supplements, Antioxidant, Immunity Booster - Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 497478,
+   "uncompressed": 2183903,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Swimming Pools in New York, NY (Report by Karston Fox).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42419,
+   "uncompressed": 181842,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Tanning Salon, US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 251687,
+   "uncompressed": 2133754,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Technology, Start Up - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 81985,
+   "uncompressed": 882925,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Training Manager - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2576154,
+   "uncompressed": 11111739,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Translation & Localization - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 278369,
+   "uncompressed": 993422,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Transportation, Trucking - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 330925,
+   "uncompressed": 1797617,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Tree Removal, Tree Service - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 69602,
+   "uncompressed": 307146,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Tree Services 3K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1417174,
+   "uncompressed": 6907070,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Truck Driver - California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2333849,
+   "uncompressed": 10779346,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Truck Driver - Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1686059,
+   "uncompressed": 6805968,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Truck Driver 18K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6259289,
+   "uncompressed": 24196958,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Truck Driver 25K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8587908,
+   "uncompressed": 33174735,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Truck Driver 28K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9515645,
+   "uncompressed": 36425624,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Truck Driver 9K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3033739,
+   "uncompressed": 11792074,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Trucking - San Jose, CA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 283194,
+   "uncompressed": 1828887,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Trucking Company 10K - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3791791,
+   "uncompressed": 20658121,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Trucking, Logistic - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 814338,
+   "uncompressed": 4406677,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/TruckingTransportation - Germany, Belgium and France.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 110523,
+   "uncompressed": 803689,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Tutor - UK 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 371678,
+   "uncompressed": 2566149,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Tutor - UK.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 430414,
+   "uncompressed": 2233726,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Virtual_Assistant_Agency_Us.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7250,
+   "uncompressed": 29945,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Warehouses_Retail_Office_Chicago.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 64434,
+   "uncompressed": 271408,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Web Desginer - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1329252,
+   "uncompressed": 4778768,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Web Design - Colorado.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55210,
+   "uncompressed": 262560,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Web Design - Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32494,
+   "uncompressed": 133281,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Window Installation - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 253469,
+   "uncompressed": 1697343,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Window Tinting - US.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 116469,
+   "uncompressed": 547861,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Window_Tinting_20_Cities.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 258497,
+   "uncompressed": 1146429,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Seamless Database 1,547,199/Wordpress - Austria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4340414,
+   "uncompressed": 17656803,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

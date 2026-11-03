@@ -1,0 +1,532 @@
+{
+ "archive": "Copy of Entire Apollo Database 99,311,285.zip",
+ "drive_id": "1x-0CGZBJsHix1zExrFHhGfYl_Y_LhHm9",
+ "size": 19649421207,
+ "modtime": "2026-06-13T15:03:53.192Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Entire Apollo Database 99,311,285/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7308583,
+   "uncompressed": 44474836,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7253611,
+   "uncompressed": 44503473,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7543985,
+   "uncompressed": 42049653,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7293365,
+   "uncompressed": 42197002,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7278069,
+   "uncompressed": 48207427,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3173173,
+   "uncompressed": 18934248,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/americas_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 597776,
+   "uncompressed": 3512576,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/americas_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 629528,
+   "uncompressed": 4326637,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/used/1-americas_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1073920,
+   "uncompressed": 7817803,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/used/americas_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1132595,
+   "uncompressed": 8261510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/used/americas_region_v3_part1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 604584,
+   "uncompressed": 3488010,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/used/americas_region_v3_part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 186238,
+   "uncompressed": 971322,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Americas/used/americas_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 225541,
+   "uncompressed": 1099341,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/1-asia_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 520188,
+   "uncompressed": 4314580,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/asia_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 469012,
+   "uncompressed": 4124413,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/asia_region_v3_part1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 234574,
+   "uncompressed": 1560302,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/asia_region_v3_part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37065,
+   "uncompressed": 183288,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/asia_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36942,
+   "uncompressed": 177742,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/asia_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 176818,
+   "uncompressed": 1188528,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Asia/used/asia_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 201791,
+   "uncompressed": 1709899,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/cleaned-1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2952653,
+   "uncompressed": 19702834,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/cleaned-2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2821586,
+   "uncompressed": 19247748,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/cleaned-3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2506240,
+   "uncompressed": 14005982,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/cleaned-4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1784308,
+   "uncompressed": 9671438,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/cleaned-5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1347716,
+   "uncompressed": 7333953,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/cleaned-6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1363089,
+   "uncompressed": 8902272,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/europe_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 499135,
+   "uncompressed": 4654743,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/europe_region_v3_part1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 204887,
+   "uncompressed": 1416379,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/europe_region_v3_part2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 80564,
+   "uncompressed": 396951,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/europe_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 97721,
+   "uncompressed": 462371,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/europe_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 336654,
+   "uncompressed": 2126393,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/europe_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 290398,
+   "uncompressed": 2052369,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Europe/used/1- europe_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 451195,
+   "uncompressed": 4176304,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/1-other_region.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 229884,
+   "uncompressed": 2129788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/other_region_v2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 241707,
+   "uncompressed": 2329183,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/other_region_v3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 175128,
+   "uncompressed": 1323404,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/other_region_v4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 91726,
+   "uncompressed": 675584,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/other_region_v5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 78875,
+   "uncompressed": 560342,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Agtech Apollo Database/Cleaned/Other/used/other_region_v6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 116543,
+   "uncompressed": 912519,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Apollo_V7_V5_org_all_fields 6,071,657.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2714920386,
+   "uncompressed": 10223471749,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Apollo Database 99,311,285/Apollo_V7_V5_per_all_fields 93,239,628.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16872837158,
+   "uncompressed": 54038527871,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

@@ -1,0 +1,6792 @@
+{
+ "archive": "Copy of LeadRocks Database 341,632.zip",
+ "drive_id": "1Ru0WlwTtlWdRsHwqzZ-h_bWc-hSb7Sbn",
+ "size": 45313678,
+ "modtime": "2026-06-13T14:54:15.215Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "LeadRocks Database 341,632/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Author/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Author/Author CA - PA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 150623,
+   "uncompressed": 590663,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Book Keeping/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Book Keeping/leadrocks_book_keeping_2023_09_01 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 121784,
+   "uncompressed": 460926,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Clinic Director/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Clinic Director/Clinic Director CA - FL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 122496,
+   "uncompressed": 482826,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Construction/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Construction/leadrocks_construction_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36098,
+   "uncompressed": 129048,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Construction/leadrocks_construction_2023_07_18.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 96818,
+   "uncompressed": 364432,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Construction/leadrocks_construction_company_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29906,
+   "uncompressed": 120499,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentists_1_11_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30993,
+   "uncompressed": 126850,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentists_florida_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26553,
+   "uncompressed": 103086,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18143,
+   "uncompressed": 70818,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_adam_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29084,
+   "uncompressed": 111796,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_california_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28488,
+   "uncompressed": 117326,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_dubai_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6029,
+   "uncompressed": 20069,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_florida_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25513,
+   "uncompressed": 101413,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_georgia_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24887,
+   "uncompressed": 102674,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_illinois_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27051,
+   "uncompressed": 111189,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_new_york_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25173,
+   "uncompressed": 100989,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_north_carolina_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23321,
+   "uncompressed": 100778,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_ohio_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21624,
+   "uncompressed": 88008,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_pennsylvania_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24690,
+   "uncompressed": 103206,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Dentist/leadrocks_dentist_texas_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22599,
+   "uncompressed": 91190,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Event Manager/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Event Manager/Event Manager CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 174285,
+   "uncompressed": 666013,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Event Planner/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Event Planner/Event Planner CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 141052,
+   "uncompressed": 539947,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Fitness Coach/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Fitness Coach/leadrocks_fitness_coach_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71519,
+   "uncompressed": 262318,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Fitness Coach/leadrocks_fitness_coach_spanish_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6607,
+   "uncompressed": 20749,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Fitness Coach/leadrocks_online_fitness_coach_canada_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15800,
+   "uncompressed": 55351,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_california_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29181,
+   "uncompressed": 122759,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_florida_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20784,
+   "uncompressed": 77475,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_georgia_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29109,
+   "uncompressed": 118312,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_illinois_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32255,
+   "uncompressed": 137176,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_michigan_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28335,
+   "uncompressed": 116679,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_new_jersey_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32673,
+   "uncompressed": 128585,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_new_york_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26809,
+   "uncompressed": 111169,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_north_carolina_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26440,
+   "uncompressed": 109768,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_ohio_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31990,
+   "uncompressed": 131818,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_pennsylvania_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27311,
+   "uncompressed": 112710,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Health Insurance/leadrocks_health_insurance_agent_texas_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17905,
+   "uncompressed": 64755,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Home Insurance Agent/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Home Insurance Agent/leadrocks_home_insurance_agent_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17456,
+   "uncompressed": 61001,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_2023_07_11 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40266,
+   "uncompressed": 137698,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_2023_08_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 73942,
+   "uncompressed": 268477,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_az_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27222,
+   "uncompressed": 102106,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_california_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30830,
+   "uncompressed": 121183,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_ca_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30051,
+   "uncompressed": 119487,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_florida_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23393,
+   "uncompressed": 82527,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_fl_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28280,
+   "uncompressed": 107935,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_ga_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30630,
+   "uncompressed": 118057,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_il_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25977,
+   "uncompressed": 99649,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_in_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26518,
+   "uncompressed": 99221,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_ma_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31336,
+   "uncompressed": 125343,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_mi_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34772,
+   "uncompressed": 139510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_ms_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22933,
+   "uncompressed": 87224,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_new_jersey_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16728,
+   "uncompressed": 60284,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_new_york_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34187,
+   "uncompressed": 133811,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_nj_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29026,
+   "uncompressed": 115219,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_ny_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33555,
+   "uncompressed": 130863,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_ohio_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2449,
+   "uncompressed": 7041,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_oh_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31959,
+   "uncompressed": 122561,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_pa_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26910,
+   "uncompressed": 106859,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_texas_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23348,
+   "uncompressed": 83086,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_tn_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24133,
+   "uncompressed": 90939,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_tx_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 53565,
+   "uncompressed": 208046,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_va_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29610,
+   "uncompressed": 114397,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/HVAC/leadrocks_hvac_wa_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22718,
+   "uncompressed": 84978,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Insurance Broker/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Insurance Broker/leadrocks_insurance_broker_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36150,
+   "uncompressed": 147368,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Insurance Broker/leadrocks_insurance_broker_texas_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34519,
+   "uncompressed": 125639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Lawn Care/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Lawn Care/leadrocks_lawn_care_new_jersey_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16006,
+   "uncompressed": 59892,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Lawn Care/leadrocks_lawn_care_n_carolina_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14595,
+   "uncompressed": 54848,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Lawn Care/leadrocks_lawn_care_ohio_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26357,
+   "uncompressed": 100250,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Lawn Care/leadrocks_lawn_care_texas_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18280,
+   "uncompressed": 66383,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_accountants_usa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 47152,
+   "uncompressed": 168899,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_acupuncture_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36770,
+   "uncompressed": 141253,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_acupuncure_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 57847,
+   "uncompressed": 235638,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_acupuncure_ny_and_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36778,
+   "uncompressed": 149383,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_acupuncure_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30049,
+   "uncompressed": 119167,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_airduct_cleaning_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26327,
+   "uncompressed": 94063,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_airduct_cleaning_2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24423,
+   "uncompressed": 88328,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_amazon_fba_coach_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 48023,
+   "uncompressed": 170587,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_angel_investor_software_uk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25547,
+   "uncompressed": 94387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_angel_investor_us_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 64083,
+   "uncompressed": 245308,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_architect_designer_harry_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39407,
+   "uncompressed": 167117,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_audioligist_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38770,
+   "uncompressed": 142795,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_author_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40859,
+   "uncompressed": 160709,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_author_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29013,
+   "uncompressed": 111340,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_author_il_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23312,
+   "uncompressed": 89550,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_author_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33728,
+   "uncompressed": 130186,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_author_pa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21297,
+   "uncompressed": 82303,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_author_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25867,
+   "uncompressed": 98049,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_auto_body_shops_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21300,
+   "uncompressed": 82484,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_auto_detailing_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15227,
+   "uncompressed": 54717,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_barber_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25289,
+   "uncompressed": 91717,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_bar_and_grill_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14994,
+   "uncompressed": 54009,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_bar_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25271,
+   "uncompressed": 92669,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_bar_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26677,
+   "uncompressed": 95971,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46156,
+   "uncompressed": 164748,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_ceo_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 51685,
+   "uncompressed": 192018,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_founder_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38413,
+   "uncompressed": 137629,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_illonis_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 91865,
+   "uncompressed": 348324,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_illonis_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 91865,
+   "uncompressed": 348324,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_linkedin_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44576,
+   "uncompressed": 157368,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36948,
+   "uncompressed": 135570,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_business_coach_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40314,
+   "uncompressed": 142895,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_cafe_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19115,
+   "uncompressed": 72083,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_cafe_indiana_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20545,
+   "uncompressed": 72492,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_california_agency_owners_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41679,
+   "uncompressed": 156987,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_cannabis_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 219095,
+   "uncompressed": 834280,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_ceo_marketing_us_11_50_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 87739,
+   "uncompressed": 340893,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_chiropractor_uk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20389,
+   "uncompressed": 85057,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_client_lists_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71993,
+   "uncompressed": 261374,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_clinic_director_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34757,
+   "uncompressed": 135818,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_clinic_director_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30036,
+   "uncompressed": 119773,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_clinic_director_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36355,
+   "uncompressed": 134741,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_clinic_director_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24232,
+   "uncompressed": 93352,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_coach_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 74414,
+   "uncompressed": 267850,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_coach_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 74414,
+   "uncompressed": 267850,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_commercial_cleaning_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33662,
+   "uncompressed": 123685,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_commercial_insurance_broker_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24963,
+   "uncompressed": 90289,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_construction_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 54200,
+   "uncompressed": 195562,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_construction_company_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29906,
+   "uncompressed": 120499,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_consulting_management_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31388,
+   "uncompressed": 127675,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_cyber_security_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26220,
+   "uncompressed": 91324,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dance_studio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27683,
+   "uncompressed": 107254,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentists_1_11_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30993,
+   "uncompressed": 126850,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentists_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26553,
+   "uncompressed": 103086,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28488,
+   "uncompressed": 117326,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25513,
+   "uncompressed": 101413,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_georgia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24887,
+   "uncompressed": 102674,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_illinois_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27051,
+   "uncompressed": 111189,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25173,
+   "uncompressed": 100989,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_north_carolina_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23321,
+   "uncompressed": 100778,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21624,
+   "uncompressed": 88008,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_pennsylvania_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24690,
+   "uncompressed": 103206,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dentist_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22599,
+   "uncompressed": 91190,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dermatologist_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23672,
+   "uncompressed": 96973,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_dispensary_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26750,
+   "uncompressed": 94132,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_ecommerce_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55100,
+   "uncompressed": 200299,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_ecommerce_usa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55976,
+   "uncompressed": 203662,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_ecom_apollo_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 171796,
+   "uncompressed": 640912,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_employment_agencies_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17949,
+   "uncompressed": 59567,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_manager_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44337,
+   "uncompressed": 164998,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_manager_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30244,
+   "uncompressed": 112530,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_manager_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40697,
+   "uncompressed": 154430,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_manager_oh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30040,
+   "uncompressed": 109384,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_manager_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34519,
+   "uncompressed": 125736,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_planner_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 35279,
+   "uncompressed": 130154,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_planner_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26292,
+   "uncompressed": 97635,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_planner_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30643,
+   "uncompressed": 117535,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_planner_oh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26290,
+   "uncompressed": 97387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_event_planner_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25860,
+   "uncompressed": 95697,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_fashion_brands_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46339,
+   "uncompressed": 173262,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_fashion_brands_2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71003,
+   "uncompressed": 280857,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_financial_coach_satyam_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24030,
+   "uncompressed": 87482,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_fitness_coach_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71523,
+   "uncompressed": 262300,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_flooring_canada_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21052,
+   "uncompressed": 78478,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_flooring_owner_oh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27269,
+   "uncompressed": 108471,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_food_brands_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 50139,
+   "uncompressed": 186970,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_georgia_agency_owners_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40742,
+   "uncompressed": 154252,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_gold_club_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23333,
+   "uncompressed": 84158,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_gold_club_phoenix_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14924,
+   "uncompressed": 50708,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_grill_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31363,
+   "uncompressed": 118485,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_gyms_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39885,
+   "uncompressed": 152599,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_gym_franchise_list_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 238177,
+   "uncompressed": 1029477,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_gym_franchise_list_2023_07_17.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 179456,
+   "uncompressed": 183102,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_healing_coach_melbourne_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15888,
+   "uncompressed": 60167,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_healthtech_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31608,
+   "uncompressed": 112954,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_care_az_nc_co_mi_and_in_pa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45562,
+   "uncompressed": 178278,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_care_ca_ny_nj_and_pa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45069,
+   "uncompressed": 179272,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_care_ga_il_ok_al_ut_and_ka_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44103,
+   "uncompressed": 175777,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_care_texas_and_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43340,
+   "uncompressed": 173549,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_care_tn_oh_nv_kn_and_was_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32872,
+   "uncompressed": 127328,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_coach_los_angeles_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20257,
+   "uncompressed": 77464,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29117,
+   "uncompressed": 122783,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20778,
+   "uncompressed": 77481,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_georgia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29127,
+   "uncompressed": 118312,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_illinois_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32247,
+   "uncompressed": 137218,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_michigan_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28392,
+   "uncompressed": 116691,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_new_jersey_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32689,
+   "uncompressed": 128597,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26794,
+   "uncompressed": 111175,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_north_carolina_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26490,
+   "uncompressed": 109768,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32016,
+   "uncompressed": 131818,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_pennsylvania_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27334,
+   "uncompressed": 112710,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_insurance_agent_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17913,
+   "uncompressed": 64755,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_health_software_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 54187,
+   "uncompressed": 208028,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_holistic_dentist_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38942,
+   "uncompressed": 144258,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_home_improvement_ontario_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25753,
+   "uncompressed": 95418,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_home_remodeling_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7184,
+   "uncompressed": 22978,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hospice_jay_osk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34367,
+   "uncompressed": 132125,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_az_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27234,
+   "uncompressed": 102098,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30830,
+   "uncompressed": 121183,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30051,
+   "uncompressed": 119487,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23393,
+   "uncompressed": 82527,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28280,
+   "uncompressed": 107935,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_ga_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30630,
+   "uncompressed": 118057,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_il_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25977,
+   "uncompressed": 99649,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_in_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26518,
+   "uncompressed": 99221,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_ma_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31336,
+   "uncompressed": 125343,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_mi_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34772,
+   "uncompressed": 139510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_ms_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22933,
+   "uncompressed": 87224,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_new_jersey_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16728,
+   "uncompressed": 60284,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34190,
+   "uncompressed": 133797,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_nj_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29030,
+   "uncompressed": 115213,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33555,
+   "uncompressed": 130863,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2449,
+   "uncompressed": 7041,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_oh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31959,
+   "uncompressed": 122561,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_pa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26910,
+   "uncompressed": 106859,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23345,
+   "uncompressed": 83084,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_tn_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24133,
+   "uncompressed": 90939,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 53565,
+   "uncompressed": 208046,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_va_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29610,
+   "uncompressed": 114397,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_hvac_wa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22722,
+   "uncompressed": 84972,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_injury_attorney_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40882,
+   "uncompressed": 161356,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_it_business_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38090,
+   "uncompressed": 129022,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_janitorial_services_ny_il_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28484,
+   "uncompressed": 103076,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_janitor_service_ca_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28221,
+   "uncompressed": 104257,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_janitor_service_ny_tx_il_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28662,
+   "uncompressed": 103729,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_arizona_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29952,
+   "uncompressed": 116209,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24824,
+   "uncompressed": 104216,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_chicago_utah_and_indiana_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29038,
+   "uncompressed": 110752,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_colorado_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31515,
+   "uncompressed": 121493,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_dc_and_wi_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27687,
+   "uncompressed": 107781,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22075,
+   "uncompressed": 89387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_georgia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28003,
+   "uncompressed": 108984,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_md_and_tn_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26878,
+   "uncompressed": 108807,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_new_jersey_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32050,
+   "uncompressed": 123650,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26967,
+   "uncompressed": 112642,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_nm_ky_and_ok_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28580,
+   "uncompressed": 110790,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_north_carolina_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28335,
+   "uncompressed": 115564,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_nv_and_or_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28103,
+   "uncompressed": 110643,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33610,
+   "uncompressed": 132332,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23946,
+   "uncompressed": 95361,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_jewelry_stores_va_and_hi_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29501,
+   "uncompressed": 114352,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_landscaping_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19054,
+   "uncompressed": 74805,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_landscaping_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 35593,
+   "uncompressed": 141608,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_lawn_care_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14653,
+   "uncompressed": 55807,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_lawn_care_new_jersey_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16006,
+   "uncompressed": 59892,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_lawn_care_n_carolina_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14595,
+   "uncompressed": 54848,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_lawn_care_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26357,
+   "uncompressed": 100250,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_lawn_care_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18280,
+   "uncompressed": 66383,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_law_firm_51_200e_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 214016,
+   "uncompressed": 821367,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_law_firm_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43140,
+   "uncompressed": 174117,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_life_coaches_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19860,
+   "uncompressed": 69693,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_life_coach_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 63531,
+   "uncompressed": 236272,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_life_insurance_agent_canada_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9107,
+   "uncompressed": 28293,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_linkedin_search_list_1_marketing_ag_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39510,
+   "uncompressed": 144704,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_logistic_broker_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27166,
+   "uncompressed": 96732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_arizona_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40105,
+   "uncompressed": 153399,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 72799,
+   "uncompressed": 292012,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38396,
+   "uncompressed": 142617,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_georgia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37688,
+   "uncompressed": 146756,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_indiana_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42675,
+   "uncompressed": 165985,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_kentucky_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40468,
+   "uncompressed": 152285,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_michigan_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46627,
+   "uncompressed": 184184,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_missouri_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41583,
+   "uncompressed": 157355,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42538,
+   "uncompressed": 163993,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_north_carolina_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39765,
+   "uncompressed": 152404,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45450,
+   "uncompressed": 176565,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_pennsylvania_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13055,
+   "uncompressed": 47316,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_manufacturing_wisconsin_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46063,
+   "uncompressed": 176952,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_19oct_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 65481,
+   "uncompressed": 256869,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30455,
+   "uncompressed": 110079,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_apollo_2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 300515,
+   "uncompressed": 1196672,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_arman_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34144,
+   "uncompressed": 150916,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24264,
+   "uncompressed": 89626,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46604,
+   "uncompressed": 169031,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_chi_bos_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43685,
+   "uncompressed": 162175,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40431,
+   "uncompressed": 151482,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40265,
+   "uncompressed": 146590,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_idaho_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26087,
+   "uncompressed": 94269,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_los_angeles_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41365,
+   "uncompressed": 154585,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 49030,
+   "uncompressed": 182330,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_oh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24606,
+   "uncompressed": 87979,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 75005,
+   "uncompressed": 283483,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43017,
+   "uncompressed": 154756,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_uk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 63337,
+   "uncompressed": 243087,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_zulkarnain_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43996,
+   "uncompressed": 161951,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_agency_zulkarnain_2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41109,
+   "uncompressed": 153938,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28129,
+   "uncompressed": 99139,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_marketing_us_1_10_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107534,
+   "uncompressed": 437342,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_medical_practice_apollo_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 63671,
+   "uncompressed": 248938,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_medspa_test_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27562,
+   "uncompressed": 99636,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_metal_company_bhavya_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14030,
+   "uncompressed": 52400,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 249942,
+   "uncompressed": 1002130,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_australia_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23231,
+   "uncompressed": 113439,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_australia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31014,
+   "uncompressed": 138128,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34277,
+   "uncompressed": 132915,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40450,
+   "uncompressed": 154896,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41435,
+   "uncompressed": 161260,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 76918,
+   "uncompressed": 291072,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_sam_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23005,
+   "uncompressed": 112671,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_sydney_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17100,
+   "uncompressed": 79702,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_broker_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28657,
+   "uncompressed": 108995,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_loan_officers_fl1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 35315,
+   "uncompressed": 136418,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_loan_officers_fl2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27275,
+   "uncompressed": 111423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_loan_officers_fl3_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31810,
+   "uncompressed": 122130,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_loan_officer_dallas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31354,
+   "uncompressed": 130478,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_mortgage_loan_officer_illinois_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33156,
+   "uncompressed": 143974,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_new_jersey_agency_owners_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41273,
+   "uncompressed": 153079,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_new_york_agency_owners_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41403,
+   "uncompressed": 148853,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nj_attorneys_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39602,
+   "uncompressed": 168016,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nj_attorneys_2023_07_17.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106978,
+   "uncompressed": 109749,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_non_profit_england_uk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23176,
+   "uncompressed": 94598,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_non_profit_uk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2668,
+   "uncompressed": 7505,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_practitioner_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26269,
+   "uncompressed": 107610,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_practitioner_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19709,
+   "uncompressed": 77951,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_practitioner_il_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21277,
+   "uncompressed": 91356,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_practitioner_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23804,
+   "uncompressed": 100362,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_practitioner_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18724,
+   "uncompressed": 72617,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_staffing_agency_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15719,
+   "uncompressed": 55554,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_nurse_staffing_agency_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18762,
+   "uncompressed": 66065,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_ohio_business_coaches_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29650,
+   "uncompressed": 108002,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_online_fitness_coach_canada_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15800,
+   "uncompressed": 55351,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pain_management_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46723,
+   "uncompressed": 188280,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pain_management_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39422,
+   "uncompressed": 153947,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pain_management_illinois_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45514,
+   "uncompressed": 183770,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pain_management_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41438,
+   "uncompressed": 165096,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pain_management_pennsylvania_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41666,
+   "uncompressed": 166877,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pain_management_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38802,
+   "uncompressed": 154613,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pediatric_dermatologist_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34195,
+   "uncompressed": 124728,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_performance_coach_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30373,
+   "uncompressed": 111936,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_performance_coach_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32420,
+   "uncompressed": 123132,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_assistant_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39863,
+   "uncompressed": 149564,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorneys_20_10_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44200,
+   "uncompressed": 163038,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorneys_27oct_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38621,
+   "uncompressed": 148270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45842,
+   "uncompressed": 192422,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45842,
+   "uncompressed": 192422,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44398,
+   "uncompressed": 181199,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40846,
+   "uncompressed": 165474,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44236,
+   "uncompressed": 179217,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_oh_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43938,
+   "uncompressed": 177940,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_oh_2023_07_17 (2).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43938,
+   "uncompressed": 177940,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_oh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43938,
+   "uncompressed": 177940,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_attorney_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38536,
+   "uncompressed": 158865,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_personal_injury_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 120454,
+   "uncompressed": 524855,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pest_control_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23455,
+   "uncompressed": 93211,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pest_control_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23349,
+   "uncompressed": 91339,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pia_1nov_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23568,
+   "uncompressed": 91540,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pia_31oct_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31415,
+   "uncompressed": 130044,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_plastic_surgery_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19059,
+   "uncompressed": 73700,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_plumbing_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30985,
+   "uncompressed": 110393,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_plumbing_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40580,
+   "uncompressed": 151639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_plumbing_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34517,
+   "uncompressed": 123144,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_06_03_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 115503,
+   "uncompressed": 438595,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_21_03_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 68668,
+   "uncompressed": 256802,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_31_01_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31256,
+   "uncompressed": 114298,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_7_2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 75302,
+   "uncompressed": 279731,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_feb_1_8_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 81434,
+   "uncompressed": 307697,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 48877,
+   "uncompressed": 183183,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_owner_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 69135,
+   "uncompressed": 257160,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_podcast_owner_2_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 90882,
+   "uncompressed": 342400,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pool_cali_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 65739,
+   "uncompressed": 256379,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_power_washing_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5043,
+   "uncompressed": 16088,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pressure_washing_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16847,
+   "uncompressed": 62630,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pressure_washing_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17370,
+   "uncompressed": 62634,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pr_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44481,
+   "uncompressed": 161767,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_pr_agency_uk_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31755,
+   "uncompressed": 123130,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_realtors_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4196,
+   "uncompressed": 11797,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_realtor_miami_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29672,
+   "uncompressed": 124508,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_estate_agent_canada_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24049,
+   "uncompressed": 90905,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_estate_investors_joe_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26131,
+   "uncompressed": 90826,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_agent_los_angeles_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31389,
+   "uncompressed": 114960,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_agent_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26742,
+   "uncompressed": 93646,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_arizona_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30864,
+   "uncompressed": 114790,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_michigan_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28605,
+   "uncompressed": 105314,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_new_jersey_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25430,
+   "uncompressed": 94487,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30758,
+   "uncompressed": 113247,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_n_carolina_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19744,
+   "uncompressed": 72649,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_ohio_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28852,
+   "uncompressed": 105208,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_oregon_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25174,
+   "uncompressed": 94346,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27560,
+   "uncompressed": 96906,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_real_state_washington_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32196,
+   "uncompressed": 124171,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_recruiting_agency_harry_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17907,
+   "uncompressed": 63332,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_recruitment_agency_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31049,
+   "uncompressed": 111832,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_recruitment_agency_josh_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29264,
+   "uncompressed": 107965,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_recruitment_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23471,
+   "uncompressed": 96157,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_recruitment_owner_ny_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34207,
+   "uncompressed": 139050,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurants_washington_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17090,
+   "uncompressed": 62704,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 56633,
+   "uncompressed": 207369,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_apollo_20_50_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71443,
+   "uncompressed": 263220,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_arizona_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14354,
+   "uncompressed": 51006,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21797,
+   "uncompressed": 83166,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_georgia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22842,
+   "uncompressed": 82923,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_illinois_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27775,
+   "uncompressed": 106140,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_louisiana_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21447,
+   "uncompressed": 82525,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_michigan_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14365,
+   "uncompressed": 52446,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_new_jersey_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17844,
+   "uncompressed": 65885,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40993,
+   "uncompressed": 171939,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_pennsylvania_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22853,
+   "uncompressed": 83634,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21771,
+   "uncompressed": 81448,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_restaurant_virginia_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15276,
+   "uncompressed": 55836,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_review_test_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38770,
+   "uncompressed": 142795,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_re_agent_cali_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39932,
+   "uncompressed": 161540,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_re_agent_houston_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23671,
+   "uncompressed": 101432,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_re_agent_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55441,
+   "uncompressed": 245159,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_roofing_oh_tn_in_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 82538,
+   "uncompressed": 333495,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_08_03_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 100540,
+   "uncompressed": 385708,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_13_03_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 124613,
+   "uncompressed": 489456,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 112307,
+   "uncompressed": 430320,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 98096,
+   "uncompressed": 376546,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_21_03_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 83628,
+   "uncompressed": 342288,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_austin_tx_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 61655,
+   "uncompressed": 242582,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_saas_san_francisco_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 62607,
+   "uncompressed": 251499,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_seo_services_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 51543,
+   "uncompressed": 196732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_seo_services_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42822,
+   "uncompressed": 161442,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_seo_services_indiana_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44207,
+   "uncompressed": 169897,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_seo_services_los_angeles_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42591,
+   "uncompressed": 163390,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_seo_services_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41933,
+   "uncompressed": 161574,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_seo_services_utah_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 49639,
+   "uncompressed": 190069,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_software_devs_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55629,
+   "uncompressed": 206377,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_solar_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33871,
+   "uncompressed": 133727,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_solar_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25903,
+   "uncompressed": 96252,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_solar_dubai_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 12033,
+   "uncompressed": 39876,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_solar_los_angeles_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26262,
+   "uncompressed": 97202,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_solar_wa_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 35657,
+   "uncompressed": 132784,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_and_recruiting_california_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41608,
+   "uncompressed": 167575,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_and_recruiting_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37366,
+   "uncompressed": 149749,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_and_recruiting_new_york_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38548,
+   "uncompressed": 162964,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_and_recruiting_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33643,
+   "uncompressed": 136694,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_and_recruitment_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30939,
+   "uncompressed": 125910,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_canada_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21023,
+   "uncompressed": 80028,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_fl_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33859,
+   "uncompressed": 137371,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33919,
+   "uncompressed": 137498,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_staffing_texas_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43958,
+   "uncompressed": 163391,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_stay_at_home_mom_arizona_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23879,
+   "uncompressed": 85234,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_surveyor_self_employed_alex_f_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14840,
+   "uncompressed": 52694,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_texas_agency_owners_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41552,
+   "uncompressed": 156522,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_trucking_owner_florida_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37408,
+   "uncompressed": 142440,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_trucking_owner_ohio_state_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34306,
+   "uncompressed": 128997,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_wedding_photographer_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 112275,
+   "uncompressed": 422364,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_az_ga_ok_or_nv_nm_ky_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17297,
+   "uncompressed": 65008,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_az_ga_ok_or_nv_nm_ky_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17297,
+   "uncompressed": 65008,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_ca_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19285,
+   "uncompressed": 76270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_fl_and_mi_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15045,
+   "uncompressed": 57435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_fl_and_mi_2023_07_17 (2).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15045,
+   "uncompressed": 57435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_fl_and_mi_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15045,
+   "uncompressed": 57435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_nc_oh_in_tn_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13608,
+   "uncompressed": 52995,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_nc_oh_in_tn_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13608,
+   "uncompressed": 52995,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_wa_ma_md_wi_co_2023_07_17 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18116,
+   "uncompressed": 67735,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_window_cleaning_wa_ma_md_wi_co_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18116,
+   "uncompressed": 67735,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_wrap_shops_1_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 42290,
+   "uncompressed": 143655,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/leadrocks_yoga_studio_owner_2023_07_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24596,
+   "uncompressed": 93025,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Life Insurance/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Life Insurance/leadrocks_life_insurance_agent_canada_2023_08_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9120,
+   "uncompressed": 28243,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_19oct_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 65481,
+   "uncompressed": 256869,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_1_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30455,
+   "uncompressed": 110079,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 219586,
+   "uncompressed": 839903,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_apollo_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 379455,
+   "uncompressed": 1535536,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_apollo_2_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 300504,
+   "uncompressed": 1196732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_arman_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34139,
+   "uncompressed": 150922,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_california_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24264,
+   "uncompressed": 89626,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_ca_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46607,
+   "uncompressed": 169061,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_chi_bos_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43675,
+   "uncompressed": 162207,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_florida_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40431,
+   "uncompressed": 151502,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_fl_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40262,
+   "uncompressed": 146602,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_idaho_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26087,
+   "uncompressed": 94269,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_los_angeles_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41356,
+   "uncompressed": 154605,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_ny_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 49020,
+   "uncompressed": 182364,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_oh_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24606,
+   "uncompressed": 87979,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_owner_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 74993,
+   "uncompressed": 283485,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_owner_san_francisco_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45011,
+   "uncompressed": 174976,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_tx_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43007,
+   "uncompressed": 154806,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_uk_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 63328,
+   "uncompressed": 243105,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_us_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43560,
+   "uncompressed": 159768,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_zulkarnain_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43991,
+   "uncompressed": 161961,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/leadrocks_marketing_agency_zulkarnain_2_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41112,
+   "uncompressed": 153944,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Marketing Agency/Marketing Agency CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 174003,
+   "uncompressed": 647034,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Metal Company/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Metal Company/leadrocks_metal_company_bhavya_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14030,
+   "uncompressed": 52400,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Metal Company/leadrocks_metal_company_saudi_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13967,
+   "uncompressed": 52127,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_10k_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 382827,
+   "uncompressed": 1781231,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 249883,
+   "uncompressed": 1002436,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_3_29_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113948,
+   "uncompressed": 438742,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_5k_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 387417,
+   "uncompressed": 1775702,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_abdullah_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 56982,
+   "uncompressed": 242128,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_atlanta_ga_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24551,
+   "uncompressed": 90628,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_australia_2023_07_11 (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23231,
+   "uncompressed": 113439,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_australia_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31014,
+   "uncompressed": 138128,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_birmingham_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32842,
+   "uncompressed": 132371,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_ca_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34277,
+   "uncompressed": 132915,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_fl_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40450,
+   "uncompressed": 154896,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_ga_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32546,
+   "uncompressed": 132652,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_matt_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39423,
+   "uncompressed": 150676,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_miami_fl_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34703,
+   "uncompressed": 133392,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_mississauga_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18533,
+   "uncompressed": 71636,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_ny_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41433,
+   "uncompressed": 161266,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_oh_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11347,
+   "uncompressed": 41126,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_owner_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 76910,
+   "uncompressed": 291078,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_phoenix_az_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24719,
+   "uncompressed": 94659,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_sam_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23005,
+   "uncompressed": 112671,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_south_carolina_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32185,
+   "uncompressed": 122719,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_sydney_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17100,
+   "uncompressed": 79702,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_toronto_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26959,
+   "uncompressed": 118596,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_tx_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28657,
+   "uncompressed": 108995,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_tx_ca_nc_md_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 36218,
+   "uncompressed": 135213,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/leadrocks_mortgage_broker_vaughan_new_york_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43191,
+   "uncompressed": 165693,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Mortgage Broker/Mortgage Broker CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 109757,
+   "uncompressed": 432465,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Nurse Practitioner/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Nurse Practitioner/Nurse Practitioner CA - IL.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107089,
+   "uncompressed": 449770,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Nurse Staffing Agency/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Nurse Staffing Agency/Nurse Staffing Agency CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 66733,
+   "uncompressed": 246597,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Assistant/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Assistant/Personal Assistant CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 170080,
+   "uncompressed": 630781,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Injury/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Injury/leadrocks_personal_injury_owner_2022_09_05.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 119567,
+   "uncompressed": 529125,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Injury/leadrocks_personal_injury_owner_2022_09_05.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 282468,
+   "uncompressed": 285720,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Injury/leadrocks_personal_injury_owner_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 120454,
+   "uncompressed": 524855,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Personal Injury/Personal Injury Lawyer CA - OH.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 209149,
+   "uncompressed": 864838,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Plumbing/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Plumbing/leadrocks_plumbing_florida_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30983,
+   "uncompressed": 110405,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Plumbing/leadrocks_plumbing_ohio_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40580,
+   "uncompressed": 151639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Plumbing/leadrocks_plumbing_texas_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34520,
+   "uncompressed": 123152,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/leadrocks_real_estate_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40812,
+   "uncompressed": 156125,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/leadrocks_real_estate_agent_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22409,
+   "uncompressed": 97561,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/leadrocks_real_estate_agent_canada_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24027,
+   "uncompressed": 91097,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/leadrocks_real_estate_agent_des_moines_ia_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18604,
+   "uncompressed": 79916,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/leadrocks_real_estate_agent_oklahoma_city_ok_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20124,
+   "uncompressed": 86636,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Agent/leadrocks_real_estate_luxury_agent_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38622,
+   "uncompressed": 163239,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Developer/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Developer/leadrocks_real_estate_developer_alex_2_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18031,
+   "uncompressed": 64529,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Developer/leadrocks_real_estate_developer_alex_f_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11595,
+   "uncompressed": 41261,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Investor/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Investor/leadrocks_real_estate_investors_joe_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26126,
+   "uncompressed": 90828,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Investor/leadrocks_real_estate_investors_joe_2_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 12244,
+   "uncompressed": 44467,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Real Estate Investor/leadrocks_real_estate_investor_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 79941,
+   "uncompressed": 317722,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Realtor/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Realtor/Realtor.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 189754,
+   "uncompressed": 868789,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Aidalyn.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106284,
+   "uncompressed": 108052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Aldrin Torres.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106433,
+   "uncompressed": 108162,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Andrew_.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 113319,
+   "uncompressed": 115005,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Charmaine.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106808,
+   "uncompressed": 108428,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Ezzo.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106629,
+   "uncompressed": 108334,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Fredcel Catague.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104921,
+   "uncompressed": 106481,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Jackielyn Jumawan.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106303,
+   "uncompressed": 107942,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - John Jacob(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104666,
+   "uncompressed": 106313,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - John Jacob.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106260,
+   "uncompressed": 108016,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Jomar.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108194,
+   "uncompressed": 110864,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Leo Mari Mobe_.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 107131,
+   "uncompressed": 109145,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Loki Genabe.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108180,
+   "uncompressed": 109793,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Madelyn Jamandre.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106197,
+   "uncompressed": 107989,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Mario Jose Pulgo Jr.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108568,
+   "uncompressed": 110213,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Mario Pulgo.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 96636,
+   "uncompressed": 98356,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Mark Engilos Laspino.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108489,
+   "uncompressed": 111924,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Musthaq House.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 107198,
+   "uncompressed": 108935,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Norlex  Jelly Villalon.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106454,
+   "uncompressed": 108048,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sahara Ivory Bautista.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105905,
+   "uncompressed": 107586,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sebastian Mendoza.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 120616,
+   "uncompressed": 147605,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_001(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105905,
+   "uncompressed": 107586,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_001.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44204,
+   "uncompressed": 170250,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_001.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105905,
+   "uncompressed": 107586,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_002.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44267,
+   "uncompressed": 174038,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_002.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106197,
+   "uncompressed": 107989,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_003.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44654,
+   "uncompressed": 172054,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_003.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 107386,
+   "uncompressed": 109066,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_004.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43353,
+   "uncompressed": 170945,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_004.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104549,
+   "uncompressed": 106291,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_005(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 111773,
+   "uncompressed": 113438,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_005.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46729,
+   "uncompressed": 175509,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_005.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 111773,
+   "uncompressed": 113438,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_006.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43676,
+   "uncompressed": 168972,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_006.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104666,
+   "uncompressed": 106313,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_007.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43570,
+   "uncompressed": 169124,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_007.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104771,
+   "uncompressed": 106423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_008(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106608,
+   "uncompressed": 108238,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_008.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44716,
+   "uncompressed": 172088,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_008.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106608,
+   "uncompressed": 108238,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_009.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43802,
+   "uncompressed": 172537,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_009.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104853,
+   "uncompressed": 106436,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_010.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44157,
+   "uncompressed": 170398,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_010.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105687,
+   "uncompressed": 107338,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_011(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108282,
+   "uncompressed": 109925,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_011.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45307,
+   "uncompressed": 170195,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_011.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108282,
+   "uncompressed": 109925,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_012.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44399,
+   "uncompressed": 173258,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_012.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 94791,
+   "uncompressed": 96596,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_013.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44813,
+   "uncompressed": 171625,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_013.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106230,
+   "uncompressed": 107897,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_014.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44777,
+   "uncompressed": 170713,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_014.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 107025,
+   "uncompressed": 108779,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_015.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44515,
+   "uncompressed": 171046,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_015.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106629,
+   "uncompressed": 108334,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_016.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45271,
+   "uncompressed": 173853,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_016.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 155468,
+   "uncompressed": 159676,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_017(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106167,
+   "uncompressed": 108005,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_017.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44564,
+   "uncompressed": 172839,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_017.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 106167,
+   "uncompressed": 108005,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_018.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45502,
+   "uncompressed": 174303,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_018.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 108569,
+   "uncompressed": 110213,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_019(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105760,
+   "uncompressed": 107478,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_019.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44058,
+   "uncompressed": 169958,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_019.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105760,
+   "uncompressed": 107478,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_020(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105165,
+   "uncompressed": 106788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_020(2).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105165,
+   "uncompressed": 106788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_020.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43617,
+   "uncompressed": 170979,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/ALL Restaurants USA #2 - Sheet1 (2)_020.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 105165,
+   "uncompressed": 106788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/Cold Call Script.docx",
+   "is_dir": false,
+   "ext": "docx",
+   "compressed": 1006989,
+   "uncompressed": 1013830,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/Copy of ALL Restaurants USA #2 - Fredcel Catague.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 104921,
+   "uncompressed": 106481,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/20 list split/Copy of Cold Call Script.docx",
+   "is_dir": false,
+   "ext": "docx",
+   "compressed": 723907,
+   "uncompressed": 729603,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL restaurant USA #1_.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 1207325,
+   "uncompressed": 1298590,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #10.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 654816,
+   "uncompressed": 672121,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #2(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 752926,
+   "uncompressed": 765271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #2.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 2841450,
+   "uncompressed": 3065858,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #3.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 759248,
+   "uncompressed": 771789,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #4.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 763140,
+   "uncompressed": 775800,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #6.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 766066,
+   "uncompressed": 779863,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #7.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 760104,
+   "uncompressed": 773094,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #8.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 765761,
+   "uncompressed": 778743,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/ALL Restaurants USA #9.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 764895,
+   "uncompressed": 777961,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurants_canada_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172871,
+   "uncompressed": 700484,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurants_washington_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17090,
+   "uncompressed": 62704,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_10_ofcp_usa_2024_03_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 278060,
+   "uncompressed": 1199440,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 56633,
+   "uncompressed": 207369,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_3_ofcp_usa_2024_03_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 329251,
+   "uncompressed": 1396122,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_4_ofcp_usa_2024_03_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 330798,
+   "uncompressed": 1402881,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_5_ofcp_usa_2024_03_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 330820,
+   "uncompressed": 1405733,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_5_ofcp_usa_2024_03_13.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 760360,
+   "uncompressed": 773384,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_6_ofcp_usa_2024_03_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 333635,
+   "uncompressed": 1375584,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_apollo_20_50_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71439,
+   "uncompressed": 263226,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_arizona_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14354,
+   "uncompressed": 51006,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_australia_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13983,
+   "uncompressed": 48497,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_california_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4799,
+   "uncompressed": 16643,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_florida_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21797,
+   "uncompressed": 83166,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_georgia_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22842,
+   "uncompressed": 82923,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_illinois_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27775,
+   "uncompressed": 106140,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_louisiana_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21447,
+   "uncompressed": 82525,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_michigan_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14365,
+   "uncompressed": 52446,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_new_jersey_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17844,
+   "uncompressed": 65885,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_new_york_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40993,
+   "uncompressed": 171939,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_ohio_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17591,
+   "uncompressed": 63933,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_pennsylvania_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22846,
+   "uncompressed": 83640,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_test_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71416,
+   "uncompressed": 261323,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_test_2_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45901,
+   "uncompressed": 165416,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_test_3_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27754,
+   "uncompressed": 104207,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_texas_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21757,
+   "uncompressed": 81466,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_usa_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 331529,
+   "uncompressed": 1368566,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_usa_2_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 319658,
+   "uncompressed": 1342800,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Restaurant/leadrocks_restaurant_virginia_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15266,
+   "uncompressed": 55848,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Sale Powur/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Sale Powur/leadrocks_sales_powur_2023_08_18.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24079,
+   "uncompressed": 85248,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/SEO/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_california_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33868,
+   "uncompressed": 133733,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_ca_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25891,
+   "uncompressed": 96270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_dubai_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 12033,
+   "uncompressed": 39876,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_fl_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30563,
+   "uncompressed": 112050,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_harry_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 46484,
+   "uncompressed": 172655,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_las_vegas_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14579,
+   "uncompressed": 50069,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_los_angeles_ca_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26249,
+   "uncompressed": 97220,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_ohio_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11602,
+   "uncompressed": 40346,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_owner_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20997,
+   "uncompressed": 74956,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_sales_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43652,
+   "uncompressed": 158685,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_sam_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19769,
+   "uncompressed": 76254,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_us_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37433,
+   "uncompressed": 140781,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Solar/leadrocks_solar_wa_2023_07_12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 35657,
+   "uncompressed": 132784,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Staffing Agency/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Staffing Agency/leadrocks_staffing_agency_tx_2023_08_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41547,
+   "uncompressed": 148487,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Travel Nurse/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Travel Nurse/Travel Nurse.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 79496,
+   "uncompressed": 327053,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Trucking/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Trucking/leadrocks_trucking_owner_florida_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37408,
+   "uncompressed": 142440,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Trucking/leadrocks_trucking_owner_ohio_state_2023_07_11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34300,
+   "uncompressed": 128999,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Wedding Photographer/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LeadRocks Database 341,632/Wedding Photographer/leadrocks_wedding_photographer_2022_07_31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 111630,
+   "uncompressed": 424092,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

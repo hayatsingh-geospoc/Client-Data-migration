@@ -1,0 +1,3562 @@
+{
+ "archive": "Copy of Pitchbook 2025-06-21.zip",
+ "drive_id": "1vmyP3dklIBPhzBamgCfiG3NQNMqKEbrk",
+ "size": 279073764,
+ "modtime": "2026-06-13T15:05:16.240Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Mobile Commerce_1638.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 375518,
+   "uncompressed": 1398835,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Mortgage Tech_431.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 103605,
+   "uncompressed": 405173,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Wearables & Quantified Self_358.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 93670,
+   "uncompressed": 353041,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Impact Investing_807.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 246239,
+   "uncompressed": 881569,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Micro-Mobility_425.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 92308,
+   "uncompressed": 353309,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Pet Technology_534.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 121354,
+   "uncompressed": 468786,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Ridesharing_535.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 111951,
+   "uncompressed": 440168,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Virtual Reality_582.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 133863,
+   "uncompressed": 513423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Space Technology_1692.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 471351,
+   "uncompressed": 1733629,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_E-Commerce_12648.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2647470,
+   "uncompressed": 10069891,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Legal Tech_1199.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 288920,
+   "uncompressed": 1170910,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_FemTech_272.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 67799,
+   "uncompressed": 262799,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_HR Tech_2696.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 645319,
+   "uncompressed": 2439595,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Esports_607.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 130584,
+   "uncompressed": 520803,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Restaurant Technology_1370.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 292929,
+   "uncompressed": 1128803,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Nanotechnology_1531.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 460577,
+   "uncompressed": 1647661,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Ephemeral Content_45.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11585,
+   "uncompressed": 45775,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_InsurTech_2358.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 604873,
+   "uncompressed": 2293993,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_FoodTech_2634.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 566484,
+   "uncompressed": 2176324,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Car Sharing_229.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44577,
+   "uncompressed": 185916,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Digital Health_1866.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 511862,
+   "uncompressed": 1875286,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Internet of Things_3936.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1023619,
+   "uncompressed": 3772832,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Construction Technology_741.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 175861,
+   "uncompressed": 668994,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Cannabis_945.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 250629,
+   "uncompressed": 947260,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Cryptocurrency banking_1679.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 407794,
+   "uncompressed": 1532038,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Autonomous cars_367.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 97893,
+   "uncompressed": 372954,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Real Estate Technology_5272.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1226639,
+   "uncompressed": 4670709,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Infrastructure_3812.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1051588,
+   "uncompressed": 3874197,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Gaming_2600.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 535416,
+   "uncompressed": 2088268,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_TMT_32750.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8826684,
+   "uncompressed": 32574395,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Cloudtech and DevOps_4282.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1152452,
+   "uncompressed": 4270905,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_EdTech_2851.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 744545,
+   "uncompressed": 2700878,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Audio Tech_430.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 89870,
+   "uncompressed": 355905,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Cashierless Checkout_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1650,
+   "uncompressed": 5025,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Supply Chain Tech_6130.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1570174,
+   "uncompressed": 5739604,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Beauty_887.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 186578,
+   "uncompressed": 730026,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_AI-Space Tourism_62.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18225,
+   "uncompressed": 73452,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Cannabis Beverages_22.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4279,
+   "uncompressed": 15560,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_TMT_57593.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15154429,
+   "uncompressed": 56033296,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_AI-Smart Home Assistants_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1258,
+   "uncompressed": 4284,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_LOHAS & Wellness_6908.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1710619,
+   "uncompressed": 6270646,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_B2B payments_922.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 219190,
+   "uncompressed": 857178,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_AI-Enhanced Learning_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5038,
+   "uncompressed": 17946,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Augmented Reality_689.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 160302,
+   "uncompressed": 607877,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Climate Tech_3018.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 823495,
+   "uncompressed": 2989033,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Alternative Home Financing_15.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4050,
+   "uncompressed": 14290,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Smart Clothing_52.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 12427,
+   "uncompressed": 52567,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_3D Printing_476.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 110997,
+   "uncompressed": 422711,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Smart Locks_51.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8895,
+   "uncompressed": 39378,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Security Deposit Alternatives _3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 858,
+   "uncompressed": 2617,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Livestream Commerce_19.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3578,
+   "uncompressed": 13270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Advance Manufacturing_1498.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 359089,
+   "uncompressed": 1369987,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Sustainable Fashion_74.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10690,
+   "uncompressed": 51145,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Insect-Based Foods_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 692,
+   "uncompressed": 1798,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Robotics and Drones_3504.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 880164,
+   "uncompressed": 3247676,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Connected Fitness Equipment_62.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25465,
+   "uncompressed": 85938,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Art Trading Platforms_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4354,
+   "uncompressed": 14273,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Mobility Tech_6390.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1612647,
+   "uncompressed": 5917715,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Decentralized Finance_126.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24915,
+   "uncompressed": 104111,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_FinTech_16850.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 5894874,
+   "uncompressed": 6074869,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_PayFac Enablers_41.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9676,
+   "uncompressed": 39488,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Carbon Offset Trading Platforms_75.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23771,
+   "uncompressed": 86796,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Microinsurance_26.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5262,
+   "uncompressed": 21702,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Auto Commerce_375.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 82320,
+   "uncompressed": 324138,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Financial Services_206.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44879,
+   "uncompressed": 175850,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Cyber Security_5402.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1529033,
+   "uncompressed": 5589069,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Clean Meat_18.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9233,
+   "uncompressed": 28007,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_HealthTech_5335.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1583241,
+   "uncompressed": 5679960,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Electric Vehicle Platforms_82.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29603,
+   "uncompressed": 102698,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Banking as a Service_80.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17540,
+   "uncompressed": 74296,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Next-Generation Battery Technology_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7197,
+   "uncompressed": 24435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Renewable Ocean Energy_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1294,
+   "uncompressed": 3765,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Lithium Extraction Technology_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 412,
+   "uncompressed": 954,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Financial Services/REV 5M_Youth Banking _138.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27077,
+   "uncompressed": 126141,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Sustainable Tourism_39.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4563,
+   "uncompressed": 21164,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Smart Grid_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 885,
+   "uncompressed": 2591,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Long Duration Energy Storage_51.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15587,
+   "uncompressed": 60271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Hydrogen Energy_107.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28135,
+   "uncompressed": 115343,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Geothermal Power_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5195,
+   "uncompressed": 19052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Next-Generation Nuclear Fission_71.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22710,
+   "uncompressed": 92103,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Fertility Tech_42.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10028,
+   "uncompressed": 39000,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Fusion Energy_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 314,
+   "uncompressed": 736,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Electric Vehicle Charging Infrastructure_383.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 81588,
+   "uncompressed": 321904,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_AI-Smart Jewelry_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1463,
+   "uncompressed": 4695,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Big Data_6624.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1803518,
+   "uncompressed": 6589999,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Ag Tech_3130.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 819449,
+   "uncompressed": 2990864,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Medical Exoskeletons and Prosthetics_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4911,
+   "uncompressed": 16536,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Consumer Products and Services (B2C)/REV 5M_Air Taxis_146.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43044,
+   "uncompressed": 174136,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Small Modular Reactors_75.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23927,
+   "uncompressed": 95247,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Spatial Biology_80.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22876,
+   "uncompressed": 95137,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Psychedelics_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1880,
+   "uncompressed": 5990,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Carbon Capture_34.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9715,
+   "uncompressed": 36335,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Waste to Energy_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1306,
+   "uncompressed": 3917,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Thermal Batteries_21.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5299,
+   "uncompressed": 18440,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Medical Robotics_30.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10585,
+   "uncompressed": 40093,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Sleep Tech_54.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10740,
+   "uncompressed": 46229,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Concentrated Solar Power_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2739,
+   "uncompressed": 8347,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Longevity Tech_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7817,
+   "uncompressed": 25163,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_AI-powered Drug Discovery_81.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25892,
+   "uncompressed": 101690,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Mental Health Tech_33.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7332,
+   "uncompressed": 27852,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_VR Health_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3643,
+   "uncompressed": 12334,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Nanomedicine_36.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11765,
+   "uncompressed": 44744,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Reforestation_41.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6576,
+   "uncompressed": 28521,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Gene Therapies_199.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71265,
+   "uncompressed": 284058,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Mining Tech_26.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7780,
+   "uncompressed": 27870,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Pollination Tech_32.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6625,
+   "uncompressed": 24261,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Regenerative Agriculture_27.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5282,
+   "uncompressed": 21593,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Lithium Ion Battery Recycling_4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 711,
+   "uncompressed": 2423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Ad Tech_3422.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 813429,
+   "uncompressed": 3030436,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Assistive Tech_40.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7966,
+   "uncompressed": 33129,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Space Situational Awareness_18.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6060,
+   "uncompressed": 20237,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Indoor Farming_192.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 48052,
+   "uncompressed": 187628,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Passwordless Authentication_15.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4194,
+   "uncompressed": 15191,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Healthcare/REV 5M_Neurotechnology_57.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18443,
+   "uncompressed": 68933,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_TinyML_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1345,
+   "uncompressed": 3828,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Desalination Tech_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2620,
+   "uncompressed": 8272,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Hydrogen Storage_43.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11784,
+   "uncompressed": 45661,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_V2X_108.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31337,
+   "uncompressed": 125584,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Lidar_62.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16166,
+   "uncompressed": 66782,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Swarm AI_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 523,
+   "uncompressed": 1461,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Smart Waste Management_39.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10466,
+   "uncompressed": 40038,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Carbon Nanotubes_17.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6462,
+   "uncompressed": 20897,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Trust & Safety Tech_70.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10913,
+   "uncompressed": 51698,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Livestock Health_18.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3517,
+   "uncompressed": 13785,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_LLM Agents_136.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32574,
+   "uncompressed": 137381,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Deep Sea Mining_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 894,
+   "uncompressed": 4167,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Synthetic Data_33.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9603,
+   "uncompressed": 38941,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Energy/REV 5M_Batterryless IoT Sensors_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2057,
+   "uncompressed": 6612,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Quantum Sensing_9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1322,
+   "uncompressed": 5631,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_DNA Data Storage_16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4576,
+   "uncompressed": 16027,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_High Performance Computing_42.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10479,
+   "uncompressed": 45966,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Graph Databases & Analytics_23.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6979,
+   "uncompressed": 25727,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Silicon Photonics_24.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5025,
+   "uncompressed": 18844,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Edge Computing Semiconductors_27.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8302,
+   "uncompressed": 30394,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Agriculture/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Energy Services/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Semiconductors/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Utilities/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Restaurants, Hotels and Leisure/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Post-Quantum Cryptography_13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5631,
+   "uncompressed": 17217,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Robotic Process Automation_213.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 64301,
+   "uncompressed": 241605,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_IoT Security_256.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 68778,
+   "uncompressed": 267503,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_AIOps_219.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 50067,
+   "uncompressed": 225946,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Security Orchestration, Automation and Response (SOAR)_66.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16279,
+   "uncompressed": 68611,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Materials and Resources/REV 5M_Cellular Agriculture_29.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6639,
+   "uncompressed": 24846,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Quantum Computing_201.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 45941,
+   "uncompressed": 198489,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Oncology_11672.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4035319,
+   "uncompressed": 14973667,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_FinOps_57.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15769,
+   "uncompressed": 61442,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Service Mesh_28.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8512,
+   "uncompressed": 31398,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Low Code No Code_245.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 52745,
+   "uncompressed": 233069,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Pharmaceuticals and Biotechnology/REV 5M_Discovery Tools (Healthcare)_657.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 190891,
+   "uncompressed": 734186,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Metals, Minerals and Mining/REV 5M_Gold Mining_728.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 206704,
+   "uncompressed": 829398,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Metals, Minerals and Mining/REV 5M_Aluminum Mining_240.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 54490,
+   "uncompressed": 218437,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Services/REV 5M_Managed Care_813.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 239234,
+   "uncompressed": 909711,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Technology Systems/REV 5M_Medical Records Systems_467.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 135888,
+   "uncompressed": 512337,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Pharmaceuticals and Biotechnology/REV 5M_Drug Delivery_725.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 217524,
+   "uncompressed": 814807,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Apparel and Accessories/REV 5M_Other Apparel_551.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 106080,
+   "uncompressed": 419256,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Generative AI_1323.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 329807,
+   "uncompressed": 1292282,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Metals, Minerals and Mining/REV 5M_Coal Mining_280.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 79943,
+   "uncompressed": 308844,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Clean Tech_10426.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2665671,
+   "uncompressed": 9840583,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Metals, Minerals and Mining/REV 5M_Iron and Steel Mining_739.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 182532,
+   "uncompressed": 698013,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Services/REV 5M_Laboratory Services (Healthcare)_1457.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 427117,
+   "uncompressed": 1559252,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Digital Twins_164.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43109,
+   "uncompressed": 176307,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Services/REV 5M_Practice Management (Healthcare)_1708.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 552698,
+   "uncompressed": 2017496,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Devices and Supplies/REV 5M_Diagnostic Equipment_2205.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 609259,
+   "uncompressed": 2269542,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Apparel and Accessories/REV 5M_Luxury Goods_915.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 185328,
+   "uncompressed": 722380,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Metals, Minerals and Mining/REV 5M_Other Metals, Minerals and Mining_1429.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 373765,
+   "uncompressed": 1397988,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Apparel and Accessories/REV 5M_Footwear_1685.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 319841,
+   "uncompressed": 1270797,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Life Sciences_10937.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3434831,
+   "uncompressed": 12562867,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Services/REV 5M_Hospitals Inpatient Services_4688.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1308645,
+   "uncompressed": 4946848,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Artificial Intelegence and Machine Learning_10560.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2770344,
+   "uncompressed": 10146912,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Marketing Tech_7543.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1795987,
+   "uncompressed": 6757289,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_FinTech_16850.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4302382,
+   "uncompressed": 15949221,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Industrials_53910.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13070548,
+   "uncompressed": 49067160,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Services/REV 5M_Other Healthcare Services_7861.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2307800,
+   "uncompressed": 8350538,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Oil & Gas_12003.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3308739,
+   "uncompressed": 12547725,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Mobile_22071.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5200325,
+   "uncompressed": 19446076,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_SaaS_56379.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13967901,
+   "uncompressed": 52927208,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Manufacturing_46499.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9889036,
+   "uncompressed": 38499725,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Connectivity Products_1259.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 329223,
+   "uncompressed": 1215375,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Technology Systems/REV 5M_Outcome Management (Healthcare)_146.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41645,
+   "uncompressed": 162164,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Internet Service Providers_2120.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 569136,
+   "uncompressed": 2114569,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Healthcare Technology Systems/REV 5M_Other Healthcare Technology Systems_3472.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 985630,
+   "uncompressed": 3582654,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Cable Service Providers_427.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 110772,
+   "uncompressed": 423337,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Operating Systems Software_291.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 70711,
+   "uncompressed": 285518,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Fiberoptic Equipment_772.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 187644,
+   "uncompressed": 719618,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Telecommunications Service Providers_4764.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1262086,
+   "uncompressed": 4685338,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Other Energy/REV 5M_Other Energy_520.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 133366,
+   "uncompressed": 504568,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Other Software_383.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 89032,
+   "uncompressed": 342701,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Wireless Service Providers_352.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 89676,
+   "uncompressed": 343423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Other Energy/REV 5M_Other Energy_520.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 198269,
+   "uncompressed": 203141,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Exploration, Production and Refining/REV 5M_Energy Refining_710.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 245201,
+   "uncompressed": 253666,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Multimedia and Design Software_1696.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 373167,
+   "uncompressed": 1439804,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Social Platform Software_1530.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 386931,
+   "uncompressed": 1437708,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Exploration, Production and Refining/REV 5M_Energy Refining_710.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 162226,
+   "uncompressed": 661002,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Textiles/REV 5M_Animal Textiles_129.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22820,
+   "uncompressed": 96439,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Textiles/REV 5M_Mineral Textiles_49.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8992,
+   "uncompressed": 34204,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Apparel and Accessories/REV 5M_Clothing_5190.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 997790,
+   "uncompressed": 3934963,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Other Communications and Networking_2453.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 670984,
+   "uncompressed": 2440120,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Smart Mirrors_9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1188,
+   "uncompressed": 5367,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Textiles/REV 5M_Synthetic Textiles_647.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 130934,
+   "uncompressed": 509615,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Small Satellites_105.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18909,
+   "uncompressed": 85972,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Smart Packaging_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 886,
+   "uncompressed": 3486,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Communications and Networking/REV 5M_Wireless Communications Equipment_1901.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 510527,
+   "uncompressed": 1895405,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Internet Software_486.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 117790,
+   "uncompressed": 445685,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Humanoid Robotics_22.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3990,
+   "uncompressed": 17630,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Textiles/REV 5M_Plant Textiles_349.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 72049,
+   "uncompressed": 285791,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Autonomous Flight_8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1505,
+   "uncompressed": 5566,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Apparel and Accessories/REV 5M_Accessories_4189.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 800176,
+   "uncompressed": 3137651,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Durables/REV 5M_Other Consumer Durables_3403.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 679069,
+   "uncompressed": 2632002,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Ocean Data Collection_31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8509,
+   "uncompressed": 27932,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Blockchain Real Estate_8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1383,
+   "uncompressed": 4935,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Durables/REV 5M_Business equipment and supplies_506.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 96354,
+   "uncompressed": 387001,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Network Management Software_4013.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1151692,
+   "uncompressed": 4231102,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Textiles/REV 5M_Other Textiles_603.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113630,
+   "uncompressed": 453475,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Exploration, Production and Refining/REV 5M_Energy Exploration_2324.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 630801,
+   "uncompressed": 2483956,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Chemicals and Gases/REV 5M_Other Chemicals and Gases_580.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 126733,
+   "uncompressed": 483600,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/IT Services/REV 5M_Other IT Services_956.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 239499,
+   "uncompressed": 919894,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Satellite Servicing_46.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18478,
+   "uncompressed": 65975,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Database Software_1887.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 496611,
+   "uncompressed": 1849526,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Construction Robots_10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1660,
+   "uncompressed": 6826,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Durables/REV 5M_Home Furnishings_3350.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 651809,
+   "uncompressed": 2548477,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Chemicals and Gases/REV 5M_Multi-Line Chemicals_1046.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 238012,
+   "uncompressed": 931560,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_LPWAN_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 895,
+   "uncompressed": 3089,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Digital Freight Brokerage_101.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20309,
+   "uncompressed": 93111,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Educational Software_2184.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 567519,
+   "uncompressed": 2062390,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Containers and Packaging/REV 5M_Wood Containers and Packaging_170.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26927,
+   "uncompressed": 113804,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Indoor Mapping_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5046,
+   "uncompressed": 17633,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Containers and Packaging/REV 5M_Other Container and Packaging_1221.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 241909,
+   "uncompressed": 949732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Chemicals and Gases/REV 5M_Agricultural Chemicals_1163.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 270392,
+   "uncompressed": 1024556,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Containers and Packaging/REV 5M_Metal Containers and Packaging_515.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 98824,
+   "uncompressed": 412859,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Chemicals and Gases/REV 5M_Commodity Chemicals_274.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 56078,
+   "uncompressed": 230206,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Modular Construction_129.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27080,
+   "uncompressed": 108713,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Durables/REV 5M_Electronics B2C_3494.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 779796,
+   "uncompressed": 2950821,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Chemicals and Gases/REV 5M_Industrial Chemicals_2175.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 482835,
+   "uncompressed": 1876433,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Containers and Packaging/REV 5M_Plastic Containers and Packaging_2074.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 407365,
+   "uncompressed": 1596348,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Exploration, Production and Refining/REV 5M_Energy Production_4577.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1245234,
+   "uncompressed": 4685022,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Containers and Packaging/REV 5M_Paper Containers and Packaging_1284.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 249875,
+   "uncompressed": 991578,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Chemicals and Gases/REV 5M_Specialty Chemicals_2793.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 623319,
+   "uncompressed": 2392608,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Automation Workflow Software_2982.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 766765,
+   "uncompressed": 2818273,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Application Software_7921.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1790235,
+   "uncompressed": 6680888,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Services Non-Financial/REV 5M_Other Services B2C Non-Financial_6675.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1548789,
+   "uncompressed": 5745728,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_3D Printed Buildings_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1405,
+   "uncompressed": 4769,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Commercial Space Launch_94.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24150,
+   "uncompressed": 97032,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Climate Risk Modeling-as-a-Service_32.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4705,
+   "uncompressed": 21792,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Industrial Workplace Safety_36.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9339,
+   "uncompressed": 35785,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Media/REV 5M_Other Media_341.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71629,
+   "uncompressed": 280967,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Microweather_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1268,
+   "uncompressed": 4329,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Autonomous Trucking_64.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7814,
+   "uncompressed": 40419,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/IT Services/REV 5M_Systems and Information Management_7151.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1919440,
+   "uncompressed": 7028044,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Natural Disaster Preparedness & Response_19.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5098,
+   "uncompressed": 18232,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Energy Equipment/REV 5M_Other Equipment_526.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 123006,
+   "uncompressed": 475940,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Energy Equipment/REV 5M_Coal and consumable fuel Equipment_67.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17263,
+   "uncompressed": 66877,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Counter-Unmanned Aerial Systems_27.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6135,
+   "uncompressed": 23578,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Ghost Kitchens_172.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34598,
+   "uncompressed": 146204,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_AI in Foodtech_23.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3604,
+   "uncompressed": 14594,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Energy Equipment/REV 5M_Oil and Gas Equipment_794.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 186432,
+   "uncompressed": 729680,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Forestry/REV 5M_Other Forestry_74.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13013,
+   "uncompressed": 56738,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Autonomous Shipping_30.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3483,
+   "uncompressed": 18621,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_In-Space Manufacturing_9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1456,
+   "uncompressed": 6399,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Election Tech_10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3915,
+   "uncompressed": 11382,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Electric Flight_68.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19456,
+   "uncompressed": 77620,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Computer Hardware/REV 5M_Office Electronics_345.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 73351,
+   "uncompressed": 299049,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_Resilient PNT_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5383,
+   "uncompressed": 19923,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Business Products and Services (B2B)/Business Products and Services (B2B)/REV 5M_eDiscovery Platforms_125.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33092,
+   "uncompressed": 135971,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Healthcare/Other Healthcare/REV 5M_Other Healthcare_216.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 58077,
+   "uncompressed": 226291,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_Other Retail_478.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 91905,
+   "uncompressed": 367485,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Forestry/REV 5M_Wood Hard Products_829.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 159544,
+   "uncompressed": 633867,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Forestry/REV 5M_Forestry Processing_609.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 136493,
+   "uncompressed": 543893,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Office services B2B_789.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 207066,
+   "uncompressed": 830563,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Energy/Energy Equipment/REV 5M_Alternative Energy Equipment_1829.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 442051,
+   "uncompressed": 1631618,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Verticals/REV 5M_Manufacturing_55283.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13269152,
+   "uncompressed": 50187152,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Other Information Technology/REV 5M_Other Information Technology_194.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 49561,
+   "uncompressed": 195139,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Services Non-Financial/REV 5M_Accounting, Audit, Tax services B2C_2169.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 561447,
+   "uncompressed": 2252570,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Forestry/REV 5M_Forestry Development Harvesting_115.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23722,
+   "uncompressed": 100437,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Media/REV 5M_Broadcasting Radio and TV_1855.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 513858,
+   "uncompressed": 1893732,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_Catalog Retail_156.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30312,
+   "uncompressed": 120984,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Printing Services B2B_1314.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 254026,
+   "uncompressed": 994967,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_General Merchandise Stores_732.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 155855,
+   "uncompressed": 630770,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Other Business Products and Services/REV 5M_Other business products & services_195.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 47047,
+   "uncompressed": 182618,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Forestry/REV 5M_Paper and Soft Products_663.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 131739,
+   "uncompressed": 531880,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Media/REV 5M_Publishing_3144.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 727978,
+   "uncompressed": 2718336,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_Distributors-Whosale B2C_616.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 118954,
+   "uncompressed": 481098,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Security services B2B_990.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 253225,
+   "uncompressed": 942099,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Non-Durables/REV 5M_Other Consumer Non-Durable_2781.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 618316,
+   "uncompressed": 2324851,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Media/REV 5M_Movies Music and Enterntainment_3631.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 908628,
+   "uncompressed": 3376912,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Computer Hardware/REV 5M_Computers, Parts and Peripherals_2601.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 619846,
+   "uncompressed": 2386285,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Computer Hardware/REV 5M_Other Hardware_3327.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 770519,
+   "uncompressed": 2892114,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Services Non-Financial/REV 5M_Educational and Training Services B2C_3705.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 988462,
+   "uncompressed": 3592784,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_Department Stores_1771.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 385481,
+   "uncompressed": 1482637,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Other Com Prod_13600.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2756076,
+   "uncompressed": 10615602,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Other commercial services_35721.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8568451,
+   "uncompressed": 31835464,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Education&Training Service B2B_2514.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 682797,
+   "uncompressed": 2454505,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Other Business Products and Services/REV 5M_Government_1181.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 363850,
+   "uncompressed": 1332842,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Other Business Products and Services/REV 5M_Conglomerate_944.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 242327,
+   "uncompressed": 946055,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Other Consumer Products and Services_268.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 62129,
+   "uncompressed": 239766,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Other Transportation_447.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 92352,
+   "uncompressed": 369560,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Consulting Service B2B_33362.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8815689,
+   "uncompressed": 32919225,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Environmental Services B2B_5170.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1287010,
+   "uncompressed": 4731038,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Rail_308.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 73491,
+   "uncompressed": 288551,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Automotive_7917.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 2521395,
+   "uncompressed": 2609091,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_Internet Retail_5729.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1153875,
+   "uncompressed": 4416080,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Marine_603.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 135363,
+   "uncompressed": 526516,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_BPO-Outsource Services_4668.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1244432,
+   "uncompressed": 4555537,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Machinery B2B _ 7240.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1420996,
+   "uncompressed": 5577567,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Air_1383.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 359327,
+   "uncompressed": 1371445,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Construction (Non Wood)/REV 5M_Raw materials  Non wood_1338.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 439192,
+   "uncompressed": 454893,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Non-Durables/REV 5M_Beverages_4968.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1088984,
+   "uncompressed": 4126807,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Retail/REV 5M_Specialty Retails_8749.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1752862,
+   "uncompressed": 6764638,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Aerospace and defense_3784.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1026242,
+   "uncompressed": 3813775,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Infrastructure_908.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 310271,
+   "uncompressed": 321055,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Other transportation_521.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 108496,
+   "uncompressed": 423235,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Electrical Equipments_8246.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1743467,
+   "uncompressed": 6717299,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Services Non-Financial/REV 5M_Legal Services B2C_9238.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2456342,
+   "uncompressed": 9737128,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Building Products_4558.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 910569,
+   "uncompressed": 3557081,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Construction (Non Wood)/REV 5M_Raw materials  Non wood_1338.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 287779,
+   "uncompressed": 1107893,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Infrastructure_908.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 209738,
+   "uncompressed": 797492,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Human Capital Services_8814.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2257143,
+   "uncompressed": 8543407,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Crowdsourced Testing_24.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7817,
+   "uncompressed": 28709,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Rail_1078.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 237453,
+   "uncompressed": 922372,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Data Center Cooling Tech_25.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7583,
+   "uncompressed": 26923,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Cloud Workload Protection_76.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23125,
+   "uncompressed": 91340,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Blockchain Gaming_66.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15048,
+   "uncompressed": 61113,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Digital Identity Passports_133.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29795,
+   "uncompressed": 122044,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_DAOs_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1586,
+   "uncompressed": 4603,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Database Sharding_14.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3334,
+   "uncompressed": 11442,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Artificial General Intelligence (AGI) Research_246.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 50939,
+   "uncompressed": 228521,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Acct Audit &Tax Services_13367.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3284022,
+   "uncompressed": 12940989,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Contract Management Automation_88.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25490,
+   "uncompressed": 102012,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Autonomous Vehicle Simulation_88.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17496,
+   "uncompressed": 80491,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Air_1892.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 493060,
+   "uncompressed": 1846394,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_AI-powered Code Completion_31.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7391,
+   "uncompressed": 28242,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Other Business Products and Services/REV 5M_Buildings & Property_4622.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1159868,
+   "uncompressed": 4501201,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_4D Printing_78.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21151,
+   "uncompressed": 85013,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Cloud Gaming_22.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5748,
+   "uncompressed": 21032,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Marine_2706.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 604995,
+   "uncompressed": 2321862,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Digital Avatars_20.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5869,
+   "uncompressed": 21032,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Autonomous Delivery_246.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6761,
+   "uncompressed": 24890,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_Cognitive Computing_79.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23152,
+   "uncompressed": 89487,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_AI Neoclouds_688.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 168017,
+   "uncompressed": 698123,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Emerging Spaces/Information Technology/REV 5M_DevSecOps_211.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 66412,
+   "uncompressed": 252659,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Distributors&Wholesale_11686.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2214685,
+   "uncompressed": 8707222,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Services Non-Financial/REV 5M_Realestate Services B2C_9212.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2266649,
+   "uncompressed": 8563336,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Transportation/REV 5M_Automotive_7917.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1710288,
+   "uncompressed": 6528350,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Consumer Products and Services B2C/Consumer Non-Durables/REV 5M_Food Products_12215.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2474503,
+   "uncompressed": 9561105,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Logistics_8726.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1965575,
+   "uncompressed": 7445583,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Financial Software_13046.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3304072,
+   "uncompressed": 12256169,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial Transportation/REV 5M_Road_5772.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1252751,
+   "uncompressed": 4792720,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/Software/REV 5M_Business Productivity Software_34412.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8641362,
+   "uncompressed": 32133248,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Materials and Resources/Other Materials/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial products/REV 5M_Industrial Supplies&Parts_12192.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2424863,
+   "uncompressed": 9540277,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Legal Services B2B_34782.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9736573,
+   "uncompressed": 37224902,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Construction&Engineering_14902.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3521834,
+   "uncompressed": 13101074,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Business Products and Services B2B/Commercial services/REV 5M_Media and information services B2B_27437.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6636073,
+   "uncompressed": 24668059,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Industries/Information Technology/IT Services/REV 5M_IT Consulting and Outsourcing_19969.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5150772,
+   "uncompressed": 18933675,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

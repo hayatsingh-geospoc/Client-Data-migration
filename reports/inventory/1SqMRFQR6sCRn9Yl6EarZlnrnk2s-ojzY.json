@@ -1,0 +1,1052 @@
+{
+ "archive": "Copy of Company Using X Technology - 10,135,706.zip",
+ "drive_id": "1SqMRFQR6sCRn9Yl6EarZlnrnk2s-ojzY",
+ "size": 211713922,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Company Using X Technology - 10,135,706/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Campaign Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Campaign Users Database/ActiveCampaign_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 127661,
+   "uncompressed": 368673,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Campaign Users Database/ActiveCampaign_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2141082,
+   "uncompressed": 5686912,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Campaign Users Database/ActiveCampaign_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2137281,
+   "uncompressed": 5682862,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Campaign Users Database/ActiveCampaign_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2129228,
+   "uncompressed": 5663082,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Prospect Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Prospect Users Database/ActiveProspect_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19935,
+   "uncompressed": 69358,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Prospect Users Database/ActiveProspect_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 655829,
+   "uncompressed": 1741353,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Prospect Users Database/ActiveProspect_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 648582,
+   "uncompressed": 1723934,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Active Prospect Users Database/ActiveProspect_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 645325,
+   "uncompressed": 1714183,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Calendly Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Calendly Users Database/Calendly_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 122749,
+   "uncompressed": 346528,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Calendly Users Database/Calendly_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2899948,
+   "uncompressed": 7705585,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Calendly Users Database/Calendly_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2916283,
+   "uncompressed": 7744731,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Calendly Users Database/Calendly_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2909486,
+   "uncompressed": 7736108,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Clickfunnels Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Clickfunnels Users Database/ClickFunnels_1% (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 62250,
+   "uncompressed": 188082,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Clickfunnels Users Database/ClickFunnels_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 870798,
+   "uncompressed": 2908360,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Clickfunnels Users Database/ClickFunnels_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 909604,
+   "uncompressed": 2997929,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Clickfunnels Users Database/ClickFunnels_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 880581,
+   "uncompressed": 2943736,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/GoHighLevel Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/GoHighLevel Users Database/HighLevel_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 122172,
+   "uncompressed": 359245,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/GoHighLevel Users Database/HighLevel_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2449564,
+   "uncompressed": 7912851,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/GoHighLevel Users Database/HighLevel_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2382193,
+   "uncompressed": 7634360,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/GoHighLevel Users Database/HighLevel_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2506427,
+   "uncompressed": 8096132,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Hubspot Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Hubspot Users Database/Hubspot_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 213373,
+   "uncompressed": 609997,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Hubspot Users Database/Hubspot_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4298613,
+   "uncompressed": 11411499,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Hubspot Users Database/Hubspot_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4270197,
+   "uncompressed": 11365174,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Hubspot Users Database/Hubspot_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4287315,
+   "uncompressed": 11388792,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Intercom Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Intercom Users Database/Intercom_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 78499,
+   "uncompressed": 232754,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Intercom Users Database/Intercom_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1240853,
+   "uncompressed": 3291047,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Intercom Users Database/Intercom_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1238709,
+   "uncompressed": 3282196,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Intercom Users Database/Intercom_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1238684,
+   "uncompressed": 3296031,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kajabi Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kajabi Users Database/Kajabi_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18550,
+   "uncompressed": 51742,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kajabi Users Database/Kajabi_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 336754,
+   "uncompressed": 1059840,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kajabi Users Database/Kajabi_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 348745,
+   "uncompressed": 1087520,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kajabi Users Database/Kajabi_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 341546,
+   "uncompressed": 1073405,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kong Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kong Users Database/Kong_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32549,
+   "uncompressed": 92235,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kong Users Database/Kong_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 386643,
+   "uncompressed": 1025506,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kong Users Database/Kong_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 401078,
+   "uncompressed": 1075182,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Kong Users Database/Kong_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 379897,
+   "uncompressed": 1005963,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Lucky Orange Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Lucky Orange Users Database/LuckyOrange_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 88752,
+   "uncompressed": 258240,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Lucky Orange Users Database/LuckyOrange_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 923974,
+   "uncompressed": 2459726,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Lucky Orange Users Database/LuckyOrange_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 938606,
+   "uncompressed": 2492689,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Lucky Orange Users Database/LuckyOrange_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 940999,
+   "uncompressed": 2505058,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Magento Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Magento Users Database/Magento_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 95856,
+   "uncompressed": 263817,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Magento Users Database/Magento_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1208088,
+   "uncompressed": 3545540,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Magento Users Database/Magento_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1497234,
+   "uncompressed": 4297052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Magento Users Database/Magento_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1262623,
+   "uncompressed": 3688736,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/MailChimp Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/MailChimp Users Database/MailChimp_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 308786,
+   "uncompressed": 845172,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/MailChimp Users Database/MailChimp_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7916339,
+   "uncompressed": 21040717,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/MailChimp Users Database/MailChimp_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7943693,
+   "uncompressed": 21100910,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/MailChimp Users Database/MailChimp_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7940325,
+   "uncompressed": 21102266,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Practice Better Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Practice Better Users Database/PracticeBetter_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1927,
+   "uncompressed": 4841,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Practice Better Users Database/PracticeBetter_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 55338,
+   "uncompressed": 144705,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Practice Better Users Database/PracticeBetter_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 51151,
+   "uncompressed": 146543,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Practice Better Users Database/PracticeBetter_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 53562,
+   "uncompressed": 141190,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/PrestaShop Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/PrestaShop Users Database/PrestaShop_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 97013,
+   "uncompressed": 260512,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/PrestaShop Users Database/PrestaShop_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1587616,
+   "uncompressed": 4465780,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/PrestaShop Users Database/PrestaShop_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1622048,
+   "uncompressed": 4565895,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/PrestaShop Users Database/PrestaShop_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1628380,
+   "uncompressed": 4605724,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify $1-10M Revenue Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify $1-10M Revenue Database/Shopify1-10M_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 544,
+   "uncompressed": 1143,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify $1-10M Revenue Database/Shopify1-10M_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9763,
+   "uncompressed": 26724,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify $1-10M Revenue Database/Shopify1-10M_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11463,
+   "uncompressed": 32022,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify $1-10M Revenue Database/Shopify1-10M_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10210,
+   "uncompressed": 26968,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify Users Database/Shopify_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 922689,
+   "uncompressed": 3132438,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify Users Database/Shopify_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 31763847,
+   "uncompressed": 108129788,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify Users Database/Shopify_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29917005,
+   "uncompressed": 103127346,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Shopify Users Database/Shopify_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30160384,
+   "uncompressed": 104619639,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Simple Practice Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Simple Practice Users Database/SimplePractice_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5085,
+   "uncompressed": 14657,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Simple Practice Users Database/SimplePractice_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 170946,
+   "uncompressed": 468047,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Simple Practice Users Database/SimplePractice_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 168993,
+   "uncompressed": 449662,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Stripe Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Stripe Users Database/Stripe_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 381797,
+   "uncompressed": 1056531,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Stripe Users Database/Stripe_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9328844,
+   "uncompressed": 24855783,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Stripe Users Database/Stripe_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9309199,
+   "uncompressed": 24790863,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Stripe Users Database/Stripe_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9323941,
+   "uncompressed": 24828285,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/ThriveCart Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/ThriveCart Users Database/ThriveCart_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1863,
+   "uncompressed": 4155,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/ThriveCart Users Database/ThriveCart_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 47986,
+   "uncompressed": 125248,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/ThriveCart Users Database/ThriveCart_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43701,
+   "uncompressed": 118802,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/ThriveCart Users Database/ThriveCart_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 47913,
+   "uncompressed": 124178,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Typeform Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Typeform Users Database/Typeform_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 99091,
+   "uncompressed": 286465,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Typeform Users Database/Typeform_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1348785,
+   "uncompressed": 3583120,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Typeform Users Database/Typeform_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1360902,
+   "uncompressed": 3623268,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Typeform Users Database/Typeform_66%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1349674,
+   "uncompressed": 3587296,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Wistia Users Database/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Wistia Users Database/Wistia_1%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 126973,
+   "uncompressed": 369536,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Wistia Users Database/Wistia_100%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1490066,
+   "uncompressed": 3949194,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Company Using X Technology - 10,135,706/Wistia Users Database/Wistia_33%.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1469413,
+   "uncompressed": 3903822,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

@@ -1,0 +1,722 @@
+{
+ "archive": "Copy of Instagram - 843,613.zip",
+ "drive_id": "1J204PWZSP6FMwsXcAfhzEFJB-iTbUnel",
+ "size": 38695795,
+ "modtime": "2026-06-13T14:54:15.215Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Instagram - 843,613/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/1 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2616775,
+   "uncompressed": 5825378,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/10 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1684123,
+   "uncompressed": 3620523,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/11 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1322843,
+   "uncompressed": 2818552,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/12 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2070084,
+   "uncompressed": 4434226,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/13 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1942617,
+   "uncompressed": 4209374,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/14 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1966351,
+   "uncompressed": 4252273,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/15 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1414654,
+   "uncompressed": 2977851,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/16 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1270290,
+   "uncompressed": 2672452,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/2 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1969690,
+   "uncompressed": 4233791,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/3 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1035618,
+   "uncompressed": 2194903,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/4 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1429179,
+   "uncompressed": 3052270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/5 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1469361,
+   "uncompressed": 3138598,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/6 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1318421,
+   "uncompressed": 2821627,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/7 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1711327,
+   "uncompressed": 3740211,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/8 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1509701,
+   "uncompressed": 3242627,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/-Third Word -United States/100-5000 Followers (Keywords)/9 Keywords Globe -US -3RD.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1493543,
+   "uncompressed": 3186064,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1123731,
+   "uncompressed": 2498444,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 536878,
+   "uncompressed": 1188109,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 477584,
+   "uncompressed": 1053661,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 565524,
+   "uncompressed": 1246326,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 561921,
+   "uncompressed": 1245386,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 14.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 578740,
+   "uncompressed": 1310013,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 15.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 440726,
+   "uncompressed": 969253,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 494322,
+   "uncompressed": 1084300,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 867395,
+   "uncompressed": 1905759,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 726853,
+   "uncompressed": 1569179,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 687006,
+   "uncompressed": 1495913,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 606747,
+   "uncompressed": 1311733,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 677337,
+   "uncompressed": 1472785,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 856970,
+   "uncompressed": 1892290,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 743219,
+   "uncompressed": 1626778,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/100-5000 Followers (keywords)/Keywords US 9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 622729,
+   "uncompressed": 1373216,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 156812,
+   "uncompressed": 378752,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 81668,
+   "uncompressed": 191800,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 78007,
+   "uncompressed": 185473,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 67486,
+   "uncompressed": 159193,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 79725,
+   "uncompressed": 193558,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 14.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 134945,
+   "uncompressed": 331312,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 15.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 53706,
+   "uncompressed": 123470,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 79308,
+   "uncompressed": 189085,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 113054,
+   "uncompressed": 268563,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 93088,
+   "uncompressed": 218524,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 90008,
+   "uncompressed": 216700,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 59389,
+   "uncompressed": 139931,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 82562,
+   "uncompressed": 194558,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 129430,
+   "uncompressed": 309405,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 77430,
+   "uncompressed": 182205,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Agency 100-5000 Followers (category)/Agency 9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 84963,
+   "uncompressed": 200423,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 41579,
+   "uncompressed": 93492,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19757,
+   "uncompressed": 42697,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 11.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19194,
+   "uncompressed": 41079,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 12.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22106,
+   "uncompressed": 47530,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 13.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24410,
+   "uncompressed": 53240,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 14.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32204,
+   "uncompressed": 72035,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 15.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19863,
+   "uncompressed": 42467,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 16.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15916,
+   "uncompressed": 33133,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33546,
+   "uncompressed": 74401,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26605,
+   "uncompressed": 58925,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25317,
+   "uncompressed": 54710,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22621,
+   "uncompressed": 48521,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20855,
+   "uncompressed": 44008,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 39686,
+   "uncompressed": 89800,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 28320,
+   "uncompressed": 61441,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Instagram - 843,613/United States/Coaches 100-5000 Followers (category)/Coaches 9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27372,
+   "uncompressed": 58995,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

@@ -1,0 +1,4042 @@
+{
+ "archive": "Copy of Entire Linkedin Database 434,832,484.zip",
+ "drive_id": "1s9S_0cL7CqCdCpP7xeE_JpBGG9pHuBfd",
+ "size": 58615302402,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Entire Linkedin Database 434,832,484/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Albania/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Albania/Albania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16809415,
+   "uncompressed": 79689996,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Algeria/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Algeria/Algeria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 68145068,
+   "uncompressed": 352222914,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Andorra/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Andorra/Andorra.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1931150,
+   "uncompressed": 8912904,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Argentina/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Argentina/Argentina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 395791908,
+   "uncompressed": 1943998603,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Armenia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Armenia/Armenia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 10084284,
+   "uncompressed": 45785128,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Australia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Australia/Australia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1058450770,
+   "uncompressed": 4363443380,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Austria/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Austria/Austria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 85547194,
+   "uncompressed": 369921684,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Azerbaijan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Azerbaijan/Azerbaijan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19571248,
+   "uncompressed": 89442143,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bahamas/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bahamas/Bahamas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7242676,
+   "uncompressed": 33541156,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bahrain/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bahrain/Bahrain.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17544706,
+   "uncompressed": 73974099,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bangladesh/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bangladesh/Bangladesh.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 118598424,
+   "uncompressed": 550225620,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Barbados/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Barbados/Barbados.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 383,
+   "uncompressed": 1054,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Belarus/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Belarus/Belarus.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17172295,
+   "uncompressed": 73908093,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Belgium/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Belgium/Belgium.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 309799418,
+   "uncompressed": 1325397135,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Belize/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Belize/Belize.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2686960,
+   "uncompressed": 12603363,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Benin/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Benin/Benin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7576880,
+   "uncompressed": 38255289,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bhutan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bhutan/Bhutan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2633137,
+   "uncompressed": 13238179,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bolivia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bolivia/Bolivia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 32995009,
+   "uncompressed": 169139779,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Botswana/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Botswana/Botswana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 16273081,
+   "uncompressed": 72409478,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Brunei/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Brunei/Brunei.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3820653,
+   "uncompressed": 17345847,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bulgaria/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Bulgaria/Bulgaria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 50332604,
+   "uncompressed": 217128888,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Burundi/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Burundi/Burundi.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2059182,
+   "uncompressed": 10358974,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cambodia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cambodia/Cambodia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 15815038,
+   "uncompressed": 73919092,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cameroon/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cameroon/Cameroon.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 26309470,
+   "uncompressed": 128512113,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Canada/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Canada/Canada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1653223903,
+   "uncompressed": 6556837376,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Chad/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Chad/Chad.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1890835,
+   "uncompressed": 8829177,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Chile/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Chile/Chile.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 299984053,
+   "uncompressed": 1493488667,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of China/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of China/China.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 461330742,
+   "uncompressed": 1893218109,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Colombia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Colombia/Colombia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 383741490,
+   "uncompressed": 1959152187,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Comoros/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Comoros/Comoros.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 510302,
+   "uncompressed": 2612740,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of CostaRica/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of CostaRica/CostaRica.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 57234793,
+   "uncompressed": 275771063,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Croatia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Croatia/Croatia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 44222595,
+   "uncompressed": 196604134,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cuba/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cuba/Cuba.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8770552,
+   "uncompressed": 43534713,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cyprus/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Cyprus/Cyprus.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20569906,
+   "uncompressed": 87246448,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Denmark/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Denmark/Denmark.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 211392852,
+   "uncompressed": 900898997,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Djibouti/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Djibouti/Djibouti.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1420815,
+   "uncompressed": 7143265,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Dominica/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Dominica/Dominica.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 879700,
+   "uncompressed": 4153149,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of DominicanRepublic/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of DominicanRepublic/DominicanRepublic.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 383,
+   "uncompressed": 1054,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ecuador/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ecuador/Ecuador.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 114029727,
+   "uncompressed": 582066935,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Egypt/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Egypt/Egypt.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172397655,
+   "uncompressed": 733918362,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of ElSalvador/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of ElSalvador/ElSalvador.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24798775,
+   "uncompressed": 127200742,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Eritrea/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Eritrea/Eritrea.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 425363,
+   "uncompressed": 2036441,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Estonia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Estonia/Estonia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14322326,
+   "uncompressed": 62873953,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ethiopia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ethiopia/Ethiopia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23486036,
+   "uncompressed": 112535257,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Fiji/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Fiji/Fiji.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7664060,
+   "uncompressed": 35167226,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Finland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Finland/Finland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 112965133,
+   "uncompressed": 484419859,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of France/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of France/France.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1102906696,
+   "uncompressed": 5063295793,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Gabon/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Gabon/Gabon.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 5119338,
+   "uncompressed": 25058380,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Gambia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Gambia/Gambia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2694545,
+   "uncompressed": 13004381,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Georgia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Georgia/Georgia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 48097,
+   "uncompressed": 217979,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Germany/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Germany/Germany.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 738926437,
+   "uncompressed": 3169699435,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ghana/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ghana/Ghana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 71491707,
+   "uncompressed": 326270038,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Greece/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Greece/Greece.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 106989968,
+   "uncompressed": 454481895,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Grenada/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Grenada/Grenada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1214609,
+   "uncompressed": 5797389,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Guatemala/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Guatemala/Guatemala.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40127284,
+   "uncompressed": 205621801,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Haiti/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Haiti/Haiti.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7822872,
+   "uncompressed": 39065785,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Honduras/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Honduras/Honduras.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20652816,
+   "uncompressed": 104822392,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Hungary/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Hungary/Hungary.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 74268139,
+   "uncompressed": 326600886,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Iceland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Iceland/Iceland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11825248,
+   "uncompressed": 59841256,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of India/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of India/India.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3688298956,
+   "uncompressed": 15894320502,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Indonesia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Indonesia/Indonesia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 602724029,
+   "uncompressed": 2798671242,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Iran/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Iran/Iran.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 150621484,
+   "uncompressed": 722986822,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Iraq/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Iraq/Iraq.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25971132,
+   "uncompressed": 118279885,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ireland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ireland/Ireland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 179478632,
+   "uncompressed": 711860807,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Israel/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Israel/Israel.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 119995298,
+   "uncompressed": 493769968,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Italy/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Italy/Italy.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 768340822,
+   "uncompressed": 3297142567,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Jamaica/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Jamaica/Jamaica.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24550547,
+   "uncompressed": 115168022,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Japan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Japan/Japan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 100998267,
+   "uncompressed": 414610910,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Jordan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Jordan/Jordan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40817291,
+   "uncompressed": 174344744,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Kazakhstan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Kazakhstan/Kazakhstan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22501942,
+   "uncompressed": 98946768,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Kenya/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Kenya/Kenya.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 128108581,
+   "uncompressed": 568879357,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Kyrgyzstan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Kyrgyzstan/Kyrgyzstan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3036047,
+   "uncompressed": 14263233,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Laos/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Laos/Laos.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3365506,
+   "uncompressed": 16361471,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Latvia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Latvia/Latvia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 20990925,
+   "uncompressed": 91719899,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Lebanon/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Lebanon/Lebanon.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38501884,
+   "uncompressed": 167609780,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Lesotho/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Lesotho/Lesotho.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2924377,
+   "uncompressed": 13716054,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Liberia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Liberia/Liberia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4564656,
+   "uncompressed": 20774286,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Libya/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Libya/Libya.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 7764196,
+   "uncompressed": 36495605,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Liechtenstein/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Liechtenstein/Liechtenstein.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1148187,
+   "uncompressed": 5227929,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Lithuania/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Lithuania/Lithuania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29326068,
+   "uncompressed": 132285348,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Luxembourg/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Luxembourg/Luxembourg.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 19704113,
+   "uncompressed": 82238527,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Madagascar/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Madagascar/Madagascar.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 8312944,
+   "uncompressed": 43727533,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Malawi/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Malawi/Malawi.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9156490,
+   "uncompressed": 41256686,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Malaysia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Malaysia/Malaysia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 287496028,
+   "uncompressed": 1272041274,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mali/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mali/Mali.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6572458,
+   "uncompressed": 33836276,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Malta/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Malta/Malta.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 13792415,
+   "uncompressed": 58608370,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mauritius/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mauritius/Mauritius.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 14723489,
+   "uncompressed": 64435214,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mexico/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mexico/Mexico.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 825554080,
+   "uncompressed": 3892376913,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Moldova/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Moldova/Moldova.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 9885812,
+   "uncompressed": 45739012,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Monaco/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Monaco/Monaco.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2445164,
+   "uncompressed": 10370694,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mongolia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Mongolia/Mongolia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6603893,
+   "uncompressed": 33031142,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Montenegro/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Montenegro/Montenegro.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6882934,
+   "uncompressed": 31747025,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Morocco/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Morocco/Morocco.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 91696267,
+   "uncompressed": 461972808,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Namibia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Namibia/Namibia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 12137346,
+   "uncompressed": 55102913,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nauru/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nauru/Nauru.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107257,
+   "uncompressed": 495450,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nepal/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nepal/Nepal.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29704577,
+   "uncompressed": 142732093,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Netherlands/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Netherlands/Netherlands.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 777052487,
+   "uncompressed": 3054489592,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of NewZealand/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of NewZealand/NewZealand.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172308387,
+   "uncompressed": 722373432,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nicaragua/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nicaragua/Nicaragua.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18107479,
+   "uncompressed": 90540438,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Niger/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Niger/Niger.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 72665932,
+   "uncompressed": 305897909,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nigeria/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Nigeria/Nigeria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 200371313,
+   "uncompressed": 932371610,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Norway/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Norway/Norway.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 154781956,
+   "uncompressed": 664001328,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Oman/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Oman/Oman.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 51603381,
+   "uncompressed": 215222210,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Pakistan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Pakistan/Pakistan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 303221782,
+   "uncompressed": 1326335204,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Panama/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Panama/Panama.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 38356886,
+   "uncompressed": 179966890,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Paraguay/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Paraguay/Paraguay.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 21309426,
+   "uncompressed": 109589689,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Peru/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Peru/Peru.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 238961444,
+   "uncompressed": 1165762114,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Philippines/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Philippines/Philippines.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 383547453,
+   "uncompressed": 1770764928,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Poland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Poland/Poland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 221402961,
+   "uncompressed": 932001533,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Portugal/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Portugal/Portugal.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 383,
+   "uncompressed": 1054,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Qatar/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Qatar/Qatar.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 49050894,
+   "uncompressed": 198760884,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Romania/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Romania/Romania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 156481484,
+   "uncompressed": 678480217,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Russia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Russia/Russia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 162878485,
+   "uncompressed": 679776508,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SaintLucia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SaintLucia/SaintLucia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2046282,
+   "uncompressed": 9646978,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Samoa/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Samoa/Samoa.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 592431,
+   "uncompressed": 2713870,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SanMarino/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SanMarino/SanMarino.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 531233,
+   "uncompressed": 2552387,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SaudiArabia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SaudiArabia/SaudiArabia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 181103367,
+   "uncompressed": 768266775,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Senegal/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Senegal/Senegal.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22094177,
+   "uncompressed": 114652275,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Serbia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Serbia/Serbia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 54331254,
+   "uncompressed": 241633750,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Seychelles/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Seychelles/Seychelles.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1441680,
+   "uncompressed": 6565372,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Singapore/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Singapore/Singapore.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 205987706,
+   "uncompressed": 841513082,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Slovakia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Slovakia/Slovakia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40274471,
+   "uncompressed": 181202305,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Slovenia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Slovenia/Slovenia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 24636377,
+   "uncompressed": 109114155,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Somalia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Somalia/Somalia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3944088,
+   "uncompressed": 19413899,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SouthAfrica/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SouthAfrica/SouthAfrica.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 583223455,
+   "uncompressed": 2609967174,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SouthKorea/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SouthKorea/SouthKorea.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 22718408,
+   "uncompressed": 93017700,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Spain/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Spain/Spain.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 771075802,
+   "uncompressed": 3408692824,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SriLanka/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of SriLanka/SriLanka.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 64531926,
+   "uncompressed": 300026866,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Suriname/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Suriname/Suriname.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3499549,
+   "uncompressed": 16858916,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Sweden/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Sweden/Sweden.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 260695972,
+   "uncompressed": 1136984804,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Switzerland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Switzerland/Switzerland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 209684572,
+   "uncompressed": 875041716,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Syria/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Syria/Syria.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 11507773,
+   "uncompressed": 54012763,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tajikistan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tajikistan/Tajikistan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1576439,
+   "uncompressed": 7337241,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tanzania/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tanzania/Tanzania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 35792905,
+   "uncompressed": 166098231,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Thailand/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Thailand/Thailand.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 102011860,
+   "uncompressed": 453243316,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tonga/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tonga/Tonga.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 469874,
+   "uncompressed": 2236411,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tunisia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Tunisia/Tunisia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 48033714,
+   "uncompressed": 234106539,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Turkey/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Turkey/Turkey.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 419632979,
+   "uncompressed": 1899435052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Turkmenistan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Turkmenistan/Turkmenistan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1368889,
+   "uncompressed": 6364835,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Uganda/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Uganda/Uganda.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 37424878,
+   "uncompressed": 169007683,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ukraine/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Ukraine/Ukraine.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 92596780,
+   "uncompressed": 383235384,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of UnitedArabEmirates/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of UnitedArabEmirates/UnitedArabEmirates.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 293966505,
+   "uncompressed": 1221001537,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of UnitedKingdom/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of UnitedKingdom/UnitedKingdom.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2874756998,
+   "uncompressed": 11432777307,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of USA/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of USA/USA.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17875942540,
+   "uncompressed": 69410577203,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Vanuatu/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Vanuatu/Vanuatu.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 737791,
+   "uncompressed": 3427299,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Venezuela/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Venezuela/Venezuela.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 167408419,
+   "uncompressed": 835494443,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Vietnam/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Vietnam/Vietnam.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 103219764,
+   "uncompressed": 478960655,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Zambia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Zambia/Zambia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23200350,
+   "uncompressed": 102853595,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Zimbabwe/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by Countries 339,408,442/Copy of Zimbabwe/Zimbabwe.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 34998542,
+   "uncompressed": 158278814,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Alabama/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Alabama/Alabama.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 160869979,
+   "uncompressed": 656207467,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Alaska/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Alaska/Alaska.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25468367,
+   "uncompressed": 107868790,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Arizona/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Arizona/Arizona.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 318056661,
+   "uncompressed": 1287632200,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Arkansas/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Arkansas/Arkansas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 88275471,
+   "uncompressed": 367464172,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of California/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of California/California.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2141541520,
+   "uncompressed": 8480706146,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Colorado/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Colorado/Colorado.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 360228920,
+   "uncompressed": 1420768166,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Connecticut/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Connecticut/Connecticut.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 150301846,
+   "uncompressed": 596443139,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Delaware/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Delaware/Delaware.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33384825,
+   "uncompressed": 137597169,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of DistrictofColumbia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of DistrictofColumbia/DistrictofColumbia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 274667403,
+   "uncompressed": 1161058821,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Florida/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Florida/Florida.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1008960152,
+   "uncompressed": 3999956692,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Georgia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Georgia/Georgia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 531231241,
+   "uncompressed": 2107957972,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Hawaii/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Hawaii/Hawaii.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 43834740,
+   "uncompressed": 185008388,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Idaho/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Idaho/Idaho.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 59517196,
+   "uncompressed": 239971373,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Illinois/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Illinois/Illinois.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 671904800,
+   "uncompressed": 2650887560,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Indiana/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Indiana/Indiana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 259290407,
+   "uncompressed": 1040096795,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Iowa/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Iowa/Iowa.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 116036307,
+   "uncompressed": 462571156,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Kansas/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Kansas/Kansas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 128201404,
+   "uncompressed": 540413162,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Kentucky/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Kentucky/Kentucky.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 136190844,
+   "uncompressed": 555781497,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Louisiana/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Louisiana/Louisiana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 155048870,
+   "uncompressed": 645417195,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Maine/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Maine/Maine.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 52515378,
+   "uncompressed": 207249856,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Maryland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Maryland/Maryland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 274967681,
+   "uncompressed": 1091921813,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Massachusetts/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Massachusetts/Massachusetts.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 482756352,
+   "uncompressed": 1923909764,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Michigan/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Michigan/Michigan.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 443865285,
+   "uncompressed": 1756879497,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Minnesota/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Minnesota/Minnesota.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 303801018,
+   "uncompressed": 1211925852,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Mississippi/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Mississippi/Mississippi.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 67039955,
+   "uncompressed": 279762343,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Missouri/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Missouri/Missouri.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 287796348,
+   "uncompressed": 1163892681,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Montana/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Montana/Montana.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 33581337,
+   "uncompressed": 138177388,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Nebraska/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Nebraska/Nebraska.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 75448489,
+   "uncompressed": 310456050,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Nevada/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Nevada/Nevada.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 122826300,
+   "uncompressed": 514968622,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewHampshire/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewHampshire/NewHampshire.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 48628948,
+   "uncompressed": 190494580,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewJersey/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewJersey/NewJersey.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 283479803,
+   "uncompressed": 1096878524,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewMexico/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewMexico/NewMexico.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 61479216,
+   "uncompressed": 260563811,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewYork/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NewYork/NewYork.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1295535986,
+   "uncompressed": 5209249153,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NorthCarolina/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NorthCarolina/NorthCarolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 493592404,
+   "uncompressed": 1998581919,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NorthDakota/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of NorthDakota/NorthDakota.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25050258,
+   "uncompressed": 106733853,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Ohio/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Ohio/Ohio.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 521653207,
+   "uncompressed": 2049608066,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Oklahoma/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Oklahoma/Oklahoma.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 129963692,
+   "uncompressed": 537289351,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Oregon/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Oregon/Oregon.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 206394310,
+   "uncompressed": 824057485,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Pennsylvania/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Pennsylvania/Pennsylvania.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 632670375,
+   "uncompressed": 2556343803,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of RhodeIsland/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of RhodeIsland/RhodeIsland.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 54501718,
+   "uncompressed": 229463165,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of SouthCarolina/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of SouthCarolina/SouthCarolina.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 187288060,
+   "uncompressed": 774068355,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of SouthDakota/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of SouthDakota/SouthDakota.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 25439366,
+   "uncompressed": 108161926,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Tennessee/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Tennessee/Tennessee.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 281051017,
+   "uncompressed": 1145422055,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Texas/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Texas/Texas.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1328115685,
+   "uncompressed": 5207334926,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Utah/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Utah/Utah.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 149032911,
+   "uncompressed": 600878017,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Vermont/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Vermont/Vermont.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 27220405,
+   "uncompressed": 109155620,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Virginia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Virginia/Virginia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 349416048,
+   "uncompressed": 1389334569,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Washington/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Washington/Washington.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 398289928,
+   "uncompressed": 1594088940,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of WestVirginia/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of WestVirginia/WestVirginia.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 40498550,
+   "uncompressed": 171837914,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Wisconsin/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Wisconsin/Wisconsin.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 256404966,
+   "uncompressed": 1017907550,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Wyoming/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Entire Linkedin Database 434,832,484/by State (USA) 95,424,042/Copy of Wyoming/Wyoming.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 17350905,
+   "uncompressed": 72014270,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

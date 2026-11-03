@@ -1,0 +1,72 @@
+{
+ "archive": "Copy of Phone Leads 321,562.zip",
+ "drive_id": "1FE54Vq_chb_STgmI7l-xsv5jtrym4zkT",
+ "size": 5896584,
+ "modtime": "2026-06-13T14:54:15.215Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "3. Phone/Auto Wheel Repair/D7_Bulk_CSV_Auto_Wheel_Repair - D7_Bulk_CSV_Auto_Wheel_Repair (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 354449,
+   "uncompressed": 1108012,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "3. Phone/Landscaping/D7_Bulk_CSV_Landscaping_Local_Business - D7_Bulk_CSV_Landscaping_Local_Business (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1475458,
+   "uncompressed": 4430552,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "3. Phone/Electronics/D7_Bulk_CSV_Electronics_Local_Business - D7_Bulk_CSV_Electronics_Local_Business (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 592166,
+   "uncompressed": 1799898,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "3. Phone/Auto Detailing/D7_Bulk_CSV_Auto_Detailing - D7_Bulk_CSV_Auto_Detailing (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 949146,
+   "uncompressed": 3053322,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "3. Phone/Chiropractors/D7_Bulk_CSV_Chiropractors_Local_Business - D7_Bulk_CSV_Chiropractors_Local_Business (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 887741,
+   "uncompressed": 3017362,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "3. Phone/Restaurants/D7_Bulk_CSV_Restaurants_Local_Business - D7_Bulk_CSV_Restaurants_Local_Business (2).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1634458,
+   "uncompressed": 4926240,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

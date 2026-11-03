@@ -1,0 +1,162 @@
+{
+ "archive": "Copy of LinkedIn - 945,237.zip",
+ "drive_id": "1iTCjvQJX-zU5knM1nTHAIDCqD89GWxNC",
+ "size": 305125193,
+ "modtime": "2026-06-13T14:54:15.215Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "LinkedIn - 945,237/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/Australia 1-100 Marketing, Coach, Consultanting/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/Australia 1-100 Marketing, Coach, Consultanting/au_Australia_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 18367710,
+   "uncompressed": 58891310,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/Canada 1-100 Marketing, Coach, Consultanting/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/Canada 1-100 Marketing, Coach, Consultanting/canada_Canada_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 23562312,
+   "uncompressed": 72367506,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/New Zealand 1-100 Marketing, Coach, Consultanting/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/New Zealand 1-100 Marketing, Coach, Consultanting/nz_New Zealand_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3058898,
+   "uncompressed": 9961577,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/UK 1-100 Marketing, Coach, Consultanting/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/UK 1-100 Marketing, Coach, Consultanting/1_4_United Kingdom_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 51216858,
+   "uncompressed": 160985062,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/2_4_United States_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30646121,
+   "uncompressed": 96659634,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/3_4_United States_mass_export (1).csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 30418658,
+   "uncompressed": 95906011,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/4_4_United States_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 57397412,
+   "uncompressed": 181179484,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/US 1-100 Marketing 1_5_United States_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 29641653,
+   "uncompressed": 93491178,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "LinkedIn - 945,237/US 1-100 Marketing, Coach, Consultanting/US 1-100 Marketing 2_5_United States_mass_export.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 60810971,
+   "uncompressed": 191858260,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

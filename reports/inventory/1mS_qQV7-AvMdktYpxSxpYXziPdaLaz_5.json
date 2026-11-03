@@ -1,0 +1,252 @@
+{
+ "archive": "Copy of The Ultimate Ecommerce 7,797,171.zip",
+ "drive_id": "1mS_qQV7-AvMdktYpxSxpYXziPdaLaz_5",
+ "size": 2534530129,
+ "modtime": "2026-06-13T14:54:15.215Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "The Ultimate Ecommerce/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_1 - Copy.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2869,
+   "uncompressed": 7171,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172547764,
+   "uncompressed": 642945510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 111295639,
+   "uncompressed": 474936725,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 154962298,
+   "uncompressed": 580121312,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 138515058,
+   "uncompressed": 533490651,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 131284396,
+   "uncompressed": 512991979,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 128935824,
+   "uncompressed": 502113274,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 103336639,
+   "uncompressed": 428979653,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 101913256,
+   "uncompressed": 422594109,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 116936280,
+   "uncompressed": 474187815,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Shopify 3,266,327 stores/chunk_9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107533280,
+   "uncompressed": 449647257,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_1.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 172547764,
+   "uncompressed": 642945510,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_10.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 111295639,
+   "uncompressed": 474936725,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_2.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 154962298,
+   "uncompressed": 580121312,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_3.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 138515058,
+   "uncompressed": 533490651,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_4.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 131284396,
+   "uncompressed": 512991979,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_5.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 128935824,
+   "uncompressed": 502113274,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_6.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 103336639,
+   "uncompressed": 428979653,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_7.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 101913256,
+   "uncompressed": 422594109,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_8.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 116936280,
+   "uncompressed": 474187815,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "The Ultimate Ecommerce/Woocommerce (4,530,844 Stores)/chunk_9.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 107533280,
+   "uncompressed": 449647257,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

@@ -1,0 +1,192 @@
+{
+ "archive": "Copy of Clutch.co Database 194,257.zip",
+ "drive_id": "1zt4MlYw9feATCpKGmlinKV27570UNFXW",
+ "size": 42557631,
+ "modtime": "2026-06-13T14:54:08.760Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Clutch.co Database 194,257/",
+   "is_dir": true,
+   "ext": "",
+   "compressed": 0,
+   "uncompressed": 0,
+   "method": "store",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/11k smma agencies.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2541561,
+   "uncompressed": 14817220,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/12k content marketing agencies.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1985956,
+   "uncompressed": 10776335,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/12k seo.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3009506,
+   "uncompressed": 17494816,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/13k pr agencies.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3052712,
+   "uncompressed": 17695332,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/3k digiatl amerketing.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1053579,
+   "uncompressed": 6263497,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/3k digiatl amrketing.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1117852,
+   "uncompressed": 6633534,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/7k advertising agencies.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1589431,
+   "uncompressed": 9107346,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/8k email marekting companies.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 1370591,
+   "uncompressed": 7815614,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/Clutch-media buying agencies.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 853882,
+   "uncompressed": 5147849,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/content marketing agencies 325 pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2813296,
+   "uncompressed": 15538160,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/digiatl marketing 208.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2171262,
+   "uncompressed": 11774298,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/digital marketing 215 pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3306640,
+   "uncompressed": 18492880,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/email marketing 265 pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 2192866,
+   "uncompressed": 12820271,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/marketing agencies- 270 pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3152032,
+   "uncompressed": 19770110,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/ppc agencies-400pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 4785067,
+   "uncompressed": 28126648,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/seo 310 pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3998055,
+   "uncompressed": 23515933,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Clutch.co Database 194,257/socia lemdia agencies 300 pages.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 3558781,
+   "uncompressed": 21119052,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

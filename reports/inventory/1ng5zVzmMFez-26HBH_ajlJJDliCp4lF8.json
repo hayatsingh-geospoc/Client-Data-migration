@@ -1,0 +1,32 @@
+{
+ "archive": "Copy of Real Estate Agents 830K",
+ "drive_id": "1ng5zVzmMFez-26HBH_ajlJJDliCp4lF8",
+ "size": 96420854,
+ "modtime": "2026-06-13T14:54:21.739Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Real Estate Agents-20250920T122255Z-1-001/Real Estate Agents/Copy of Real-Estate-175000.csv",
+   "is_dir": false,
+   "ext": "csv",
+   "compressed": 6539775,
+   "uncompressed": 26596184,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Real Estate Agents-20250920T122255Z-1-001/Real Estate Agents/Copy of Realtors-Email -860.000.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 89880085,
+   "uncompressed": 90209111,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}

@@ -1,0 +1,352 @@
+{
+ "archive": "Copy of Pitchbook 2025-09-14.zip",
+ "drive_id": "1o1WZX-TuLBF4Jwwv72Wvs3TCkZYJ3tIk",
+ "size": 454339809,
+ "modtime": "2026-06-13T14:54:21.739Z",
+ "status": "ok",
+ "error": null,
+ "members": [
+  {
+   "path": "Pitchbook/Family Office.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 2,
+   "uncompressed": 0,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Merchant Banking.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 68667,
+   "uncompressed": 69531,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Merchant Banking (Indivual) - Investor.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 68265,
+   "uncompressed": 69135,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/PB Insurance Firms 12_1_2024.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 157285,
+   "uncompressed": 159738,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Limited Partners.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 448870,
+   "uncompressed": 459557,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Manufacturing Technology 1.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 256926,
+   "uncompressed": 259813,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Angel Group - Investors.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 204436,
+   "uncompressed": 210657,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/12_1_2024 DEBT -  LENDER_.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 190103,
+   "uncompressed": 191960,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Lender ABL - 2.0 Ventures.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 501182,
+   "uncompressed": 509096,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Funds of funds - Investors.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 454846,
+   "uncompressed": 460465,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Impact Investing - Investors.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 1115153,
+   "uncompressed": 1130213,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/HedgeFunds.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 831166,
+   "uncompressed": 852548,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Manufacturing Technology.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 256926,
+   "uncompressed": 259813,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Other Funds PitchBook 11_25.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 1460114,
+   "uncompressed": 1488469,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Hospitals and Healthcare.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 2771279,
+   "uncompressed": 2793292,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/OIL AND GAS.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 1615160,
+   "uncompressed": 1645082,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Angel Individual - Investors.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 6330931,
+   "uncompressed": 6415963,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Family Office(1).xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 2118640,
+   "uncompressed": 2179782,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Accelerator_Incubator - Investors.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 2295786,
+   "uncompressed": 2451836,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/New Real Estate.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 3793395,
+   "uncompressed": 3921067,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/10_24 Pitchbook Data_.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 3599957,
+   "uncompressed": 3633455,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/ECOMMERCE COMPANIES DATA.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 4991241,
+   "uncompressed": 5121211,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/MOBILE COMPANIES DATA.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 4194602,
+   "uncompressed": 4309361,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Hedgefunds - US.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 7185502,
+   "uncompressed": 7443096,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Other Investor Types.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 10341836,
+   "uncompressed": 10523330,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Lenders ALL_.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 7683676,
+   "uncompressed": 7969210,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/INDUSTRIAL - US - Companies.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 22272343,
+   "uncompressed": 23359267,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Fintech - Companies.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 8845440,
+   "uncompressed": 9202078,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Looking for Debt & Lender Screener - Private Credit - Company Location US.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 11022786,
+   "uncompressed": 11641634,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/SAAS DATA.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 12822967,
+   "uncompressed": 13167658,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Pitcbook Manufacturing Data.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 20358485,
+   "uncompressed": 20938459,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Pitch Book PRIVATE EQUITY DATA.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 18510127,
+   "uncompressed": 19213524,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Copy of INDUSTRIAL - US - Companies.xlsx",
+   "is_dir": false,
+   "ext": "xlsx",
+   "compressed": 18443240,
+   "uncompressed": 19364628,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  },
+  {
+   "path": "Pitchbook/Pitchbook-20250621T054827Z-1-001.zip",
+   "is_dir": false,
+   "ext": "zip",
+   "compressed": 279116349,
+   "uncompressed": 279073764,
+   "method": "deflate",
+   "encrypted": false,
+   "macos_junk": false
+  }
+ ],
+ "range_requests": 1,
+ "bytes_fetched": 1048576
+}
